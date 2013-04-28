@@ -1,0 +1,314 @@
+Javna licenca Evropske unije
+v.1.0
+
+EUPL © Evropska skupnost 2007
+
+Ta javna licenca Evropske unije („EUPL“)[EUPL: "European Union Public Licence"]
+se uporablja za delo ali programsko opremo (kakor je opredeljeno spodaj),
+zagotovljeno pod pogoji iz te licence. Vsaka uporaba dela, ki ni odobrena s
+to licenco, je prepovedana (kolikor je ta uporaba zajeta v pravici imetnika
+avtorske pravice na tem delu).
+
+Izvirnik dela je zagotovljen v skladu s pogoji iz te licence, če je dajalec
+licence (kakor je opredeljeno spodaj) dodal naslednje obvestilo takoj za
+obvestilom o avtorski pravici na izvirniku dela:
+
+    Licenca, podeljena na podlagi EUPL v.1.0
+
+ali je na kateri koli drugi način izrazil svojo voljo, da podeli licenco v
+okviru EUPL.
+
+
+1. Opredelitve
+
+V tej licenci imajo naslednji izrazi naslednji pomen:
+
+−   licenca: ta licenca.
+
+−   izvirnik dela ali programska oprema: programska oprema, ki jo
+    distribuira in/ali posreduje dajalec licence na podlagi te licence ter
+    je na voljo kot „izvorna koda“ in po potrebi tudi kot „izvršljiva
+    koda“.
+
+−   izpeljana dela: dela ali programska oprema, ki jih lahko ustvari
+    pridobitelj licence na podlagi izvirnika dela ali njegovih sprememb.
+    Ta licenca ne opredeljuje obsega sprememb ali odvisnosti od
+    izvirnika dela, ki se zahteva za opredelitev dela kot izpeljano delo;
+    ta obseg je določen v avtorskem pravu, ki se uporablja v državi,
+    navedeni v členu 15.
+
+−   delo: izvirnik dela in/ali njegova izpeljana dela.
+
+−   izvorna koda: za človeka berljiva oblika dela, ki je najbolj
+    primerna, da jo lahko ljudje proučujejo in spreminjajo.
+
+−   izvršljiva koda: vsaka koda, ki je bila na splošno kompilirana in ki
+    naj bi jo računalnik prepoznal kot program.
+
+−   dajalec licence: fizična ali pravna oseba, ki distribuira in/ali
+    posreduje delo pod licenco.
+
+−   sodelavec(-i): vsaka fizična ali pravna oseba, ki spremeni delo pod
+    licenco ali drugače prispeva k nastanku izpeljanega dela.
+
+−   pridobitelj licence ali „Vi“: vsaka fizična ali pravna oseba, ki na
+    kakršen koli način uporablja programsko opremo pod pogoji iz
+    licence.
+
+−   distribucija in/ali posredovanje: vsako dejanje prodaje, dajanja,
+    posojanja, dajanja v najem, distribuiranja, posredovanja,
+    prenašanja ali omogočanja razpolaganja, po spletu ali izven spleta,
+    kopij dela drugim fizičnim ali pravnim osebam.
+
+
+2. Obseg pravic, podeljenih z licenco
+
+Dajalec licence Vam s tem za čas trajanja avtorske pravice, na izvirniku
+dela podeljuje svetovno, brezplačno, neizključno licenco, ki jo je mogoče
+podlicencirati, in ki omogoča:
+
+−   uporabo dela v vseh okoliščinah in za vsakršno rabo,
+
+−   reprodukcijo dela,
+
+−   spremembo izvirnika dela in izdelavo izpeljanih del na podlagi
+    dela,
+
+−   posredovanje javnosti, vključno s pravico do dajanja na razpolago
+    ali prikazovanja dela ali njegovih kopij v javnosti in po potrebi
+    javne predstavitve dela,
+
+−   distribucijo dela ali njegovih kopij,
+
+−   posojanje in dajanje v najem dela ali njegovih kopij,
+
+−   podlicenciranje pravic na delu ali njegovih kopijah.
+
+Te pravice se lahko izvršujejo na katerih koli medijih, nosilcih in formatih,
+bodisi že znanih bodisi pozneje izumljenih, če to dovoljuje pravo, ki se
+uporablja.
+
+V državah, kjer veljajo moralne avtorske pravice, se dajalec licence
+odpove svoji pravici do izvrševanja svojih moralnih avtorskih pravic v
+obsegu, ki ga dovoljuje pravo, da se zagotovi učinkovanje licenciranja
+zgoraj navedenih premoženjskih pravic.
+
+Dajalec licence pridobitelju licence podeljuje brezplačne, neizključne
+pravice uporabe za vse patente, ki jih ima dajalec licence, v obsegu, ki je
+potreben za uporabo pravic, podeljenih v zvezi z delom pod to licenco.
+
+
+3. Posredovanje izvorne kode
+
+Dajalec licence lahko zagotovi delo v obliki njegove izvorne kode ali kot
+izvršljivo kodo. Če je delo zagotovljeno kot izvršljiva koda, zagotovi
+dajalec licence strojno čitljivo kopijo izvorne kode dela poleg vsake kopije
+dela, ki jo dajalec licence distribuira, ali navede v obvestilu, ki sledi
+obvestilu o avtorski pravici , priloženemu k delu, mesto shranjevanja, kjer
+je izvorna koda enostavno in prosto dostopna dokler dajalec licence
+nadaljuje z distribuiranjem in/ali posredovanjem dela.
+
+
+4. Omejitve avtorske pravice
+
+Nič v tej licenci ni namenjeno temu, da bi bil pridobitelj licence kakor koli
+prikrajšan glede svojih upravičenj iz kakršne koli izjeme ali omejitve
+izključnih pravic imetnikov pravic na izvirniku dela ali programski
+opremi, glede prenehanja teh pravic ali glede drugih veljavnih omejitev.
+
+
+5. Obveznosti pridobitelja licence
+
+Podelitev zgoraj navedenih pravic je podvržena nekaterim omejitvam in
+obveznostim, naloženim pridobitelju licence. Te obveznosti so:
+
+Obvestila o pravicah, licenci in spremembah licence: pridobitelj
+licence ne sme posegati v obvestila o avtorski pravici, patentu ali
+znamkah in v vsa obvestila, ki se nanašajo na licenco in izjavo o izključitvi
+jamstev. Pridobitelj licence mora vključiti kopijo takšnih obvestil in kopijo
+licence v vsako kopijo dela, ki ga distribuira in/ali posreduje. Pridobitelj
+licence mora vsako izpeljano delo opremiti z jasnimi obvestili, da je bilo
+delo spremenjeno, in navesti datum spremembe.
+
+Klavzula »Copyleft«: Če pridobitelj licence distribuira in/ali posreduje
+kopije izvirnika dela ali izpeljanih del na podlagi izvirnika dela, bo ta
+distribucija in/ali posredovanje opravljeno pod pogoji iz te licence.
+Pridobitelj licence (ki postane dajalec licence) ne sme ponuditi ali določiti
+nobenih dodatnih pogojev za delo ali izpeljano delo, ki spreminjajo ali
+omejujejo pogoje iz licence.
+
+Klavzula o združljivosti: Če pridobitelj licence distribuira in/ali
+posreduje izpeljana dela ali njihove kopije, ki temeljijo na izvirniku dela in
+drugem delu, ki je licencirano pod združljivo licenco, se ta distribucija
+in/ali posredovanje lahko opravi pod pogoji iz te združljive licence. Za
+potrebe te klavzule se „združljiva licenca“ nanaša na licence, naštete v
+dodatku k tej licenci. Če so obveznosti pridobitelja licence po združljivi
+licenci v nasprotju z njegovimi obveznostmi po tej licenci, obveznosti po
+združljivi licenci prevladajo.
+
+Zagotavljanje izvorne kode: Pri distribuiranju in/ali posredovanju kopij
+dela bo dajalec licence zagotovil strojno čitljivo kopijo izvirne kode ali
+navedel mesto shranjevanja, kjer bo ta koda enostavno in prosto
+dostopna, dokler dajalec licence nadaljuje z distribucijo in/ali
+posredovanjem dela.
+
+Pravno varstvo: Ta licenca ne dovoljuje uporabe trgovskih imen, znamk
+ali imen dajalca licence, razen kot se to zahteva za primerno in običajno
+uporabo pri opisovanju izvora dela ter reprodukciji vsebine obvestila o
+avtorski pravici.
+
+
+6. Avtorska veriga
+
+Prvotni dajalec licence jamči, da je imetnik avtorske pravice na izvirniku
+dela, podeljene na podlagi te licence, ali da mu je bila ta pravica
+licencirana in da je upravičen za podelitev licence.
+
+Vsak sodelavec jamči, da je imetnik avtorske pravice na spremembah, ki
+jih je vnesel v delo, ali da mu je bila ta pravica licencirana in da je
+upravičen za podelitev licence.
+
+Vsakič, ko Vi kot imetnik licence prejmete delo, Vam prvotni dajalec
+licence in vsi nadaljnji sodelavci pod pogoji iz te licence podeljujejo
+licenco na njihovih prispevkih k delu.
+
+
+7. Izjava o izključitvi jamstev
+
+Delo je delo v teku, ki ga nenehno izboljšujejo številni sodelavci. Delo ni
+dokončano delo in lahko zato vsebuje napake ali „hrošče“, ki so povezani
+s tovrstnim razvojem programske opreme.
+
+Iz zgoraj navedenega razloga je delo na podlagi licence zagotovljeno po
+načelu „videno kupljeno“ in brez kakršnih koli jamstev glede dela, kar
+vključuje, vendar ni omejeno na tržljivost, ustreznost za določen namen,
+odsotnost okvar ali napak, natančnost, spoštovanje pravic intelektualne
+lastnine, ki niso avtorske pravice, kot je navedeno v členu 6 te licence.
+
+Ta izjava o jamstvih je bistveni del te licence in pogoj za podelitev katerih
+koli pravic na delu.
+
+
+8. Izjava o izključitvi odgovornosti
+
+Razen v primerih namerne kršitve ali škode, neposredno povzročene
+fizičnim osebam, dajalec licence ne bo v nobenem primeru odgovoren za
+kakršno koli neposredno, posredno, premoženjsko ali nepremoženjsko
+škodo, nastalo iz licence ali uporabe dela, vključno (brez omejitev) s
+škodo zaradi izgube dobrega imena, prekinitve dela, okvare ali motnje v
+delovanju računalnika, izgube podatkov ali kakršne koli poslovne škode,
+čeprav je bil dajalec licence opozorjen o možnosti nastanka takšne škode.
+Vendar bo dajalec licence odgovoren na podlagi predpisov o odgovornosti
+za proizvode, če takšni predpisi veljajo za delo.
+
+
+9. Dodatni dogovori
+
+Pri distribuciji izvirnika dela ali izpeljanih del se lahko odločite za
+sklenitev dodatnega dogovora za odplačen prevzem obveznosti za
+podporo, jamstvo, odškodninsko ali drugo odgovornost in/ali storitve, ki
+so skladne s to licenco. Vendar lahko pri prevzemu takšnih obveznosti
+delujete samo v lastnem imenu in izključno na lastno odgovornost, ne pa v
+imenu prvotnega dajalca licence ali katerega koli drugega sodelavca, in le
+če se strinjate, da boste vsakemu sodelavcu povrnili škodo, ga branili in
+izvzeli iz kakršnih koli nastalih odgovornosti ali zahtevkov, nastalih zoper
+takšnega sodelavca, ker ste Vi sami prevzeli takšno jamstvo ali dodatno
+odgovornost.
+
+
+10. Sprejetje licence
+
+Določila te licence je mogoče sprejeti s klikom na ikono „se strinjam“, ki
+je nameščena pod spodnjim delom okna z besedilom te licence, ali s
+kakršno koli podobno potrditvijo v skladu s pravili prava, ki se uporablja.
+S klikom na to ikono boste izrazili nedvoumno in nepreklicno sprejetje te
+licence in vseh njenih pogojev.
+
+Enako nepreklicno sprejemate to licenco in vse njene pogoje z
+izvrševanjem katerih koli pravic, ki so Vam bile podeljene po členu 2 te
+licence, kot je uporaba dela, izdelava izpeljanih del ali distribucija in/ali
+posredovanje dela ali njegovih kopij.
+
+
+11. Obveščanje javnosti
+
+Če boste distribuirali in/ali posredovali delo s sredstvi elektronskega
+komuniciranja (na primer s ponujanjem prenosa dela z oddaljene
+lokacije), mora distribucijski kanal ali medij (na primer spletna stran)
+zagotoviti javnosti vsaj informacije, ki se zahtevajo v skladu s pravom, ki
+se uporablja, glede istovetnosti in naslova dajalca licence, same licence
+ter načina, na katerega lahko pridobitelj licence do nje dostopa, jo sklepa,
+hrani in reproducira.
+
+
+12. Prenehanje licence
+
+Licenca in pravice, ki so podeljene v skladu z njo, bodo avtomatsko
+prenehale s kakršno koli kršitvijo pogojev iz licence s strani pridobitelja
+licence.
+
+Takšno prenehanje ne bo povzročilo prenehanja licenc katere koli osebe,
+ki je prejela delo od pridobitelja licence na podlagi te licence, če te osebe
+v celoti spoštujejo licenco.
+
+
+13. Razno
+
+Brez poseganja v člen 9 zgoraj, predstavlja licenca popoln dogovor med
+strankami glede licenciranega dela .
+
+Če je katero koli določilo iz licence neveljavno ali neizvršljivo po pravu, ki
+se uporablja, to ne bo vplivalo na veljavnost in izvršljivost licence kot
+celote. Takšno določilo se bo razlagalo in/ali bo spremenjeno tako, da bo
+veljavno in izvršljivo.
+
+Evropska komisija lahko sprejme prevode in/ali zavezujoče nove različice
+te licence, če je to potrebno in primerno. Nove različice licence bodo
+objavljene z edinstveno številko različice. Nova različica licence Vas
+zavezuje od trenutka, ko boste seznanjeni z njeno objavo.
+
+
+14. Sodna pristojnost
+
+Za vse pravne spore zaradi razlage te licence, ki nastanejo med Evropsko
+komisijo kot dajalcem licence in katerim koli pridobiteljem licence, bo
+veljala sodna pristojnost Sodišča Evropskih skupnosti, kot je določeno v
+členu 238 Pogodbe o ustanovitvi Evropske skupnosti.
+
+Za vse pravne spore med strankami, ki niso Evropska komisija, in ki
+izhajajo iz razlage te licence, bo veljala izključna pristojnost zadevnega
+sodišča države, kjer ima dajalec licence prebivališče ali kjer opravlja svojo
+osnovno dejavnost.
+
+
+15. Pravo, ki se uporablja
+
+To licenco ureja pravo države Evropske unije, v kateri ima dajalec licence
+prebivališče ali sedež.
+
+To licenco ureja belgijsko pravo, če:
+
+−   nastane pravni spor med Evropsko komisijo, kot dajalcem licence,
+    in katerim koli pridobiteljem licence;
+
+−   dajalec licence, ki ni Evropska komisija, nima prebivališča ali
+    sedeža znotraj države Evropske unije.
+
+
+===
+
+
+Dodatek
+
+„Združljive licence“ v skladu s členom 5 EUPL so:
+
+−   General Public License (GPL) v. 2
+
+−   Open Software License (OSL) v. 2.1, v. 3.0
+
+−   Common Public License v. 1.0
+
+−   Eclipse Public License v. 1.0
+
+−   Cecill v. 2.0
+

@@ -1,0 +1,346 @@
+Licenţa publică a Uniunii Europene
+v.1.0
+
+EUPL© Comunitatea Europeană 2007
+
+Prezenta licenţă publică a Uniunii Europene („EUPL”)
+[EUPL:"European Union Public Licence"] se aplică produselor sau programelor
+informatice (astfel cum sunt definite mai jos) care fac obiectul prezentei
+licenţe. Orice utilizare a produsului, alta decât cea autorizată în temeiul
+prezentei licenţe, este interzisă (în măsura în care o astfel de utilizare
+intră sub incidenţa unui drept de autor asupra produsului).
+
+Produsul original intră sub incidenţa prevederilor prezentei licenţe în
+cazul în care licenţiatorul (astfel cum este definit mai jos) a introdus
+următoarea menţiune imediat după menţionarea dreptului de autor
+pentru produsul original.
+
+    Licenţiat în baza EUPL v.1.0
+
+sau şi-a exprimat, prin orice altă modalitate, dorinţa de a licenţia produsul
+în baza EUPL.
+
+
+1. Definiţii
+
+În prezenta licenţă, următorii termeni au următoarele semnificaţii:
+
+−   Licenţa: prezenta licenţă.
+
+−   Produsul original sau programul informatic: produsul informatic
+    distribuit şi/sau comunicat de către licenţiator în baza prezentei
+    licenţe, disponibil sub formă de cod sursă, precum şi sub formă de
+    cod executabil, după caz.
+
+−   Produse derivate: produsele sau programul informatic creat de
+    către licenţiat, pe baza produsului original sau a modificărilor
+    aduse acestuia. Prezenta licenţă nu defineşte proporţia modificării
+    sau a dependenţei de produsul original necesară pentru a putea
+    cataloga produsul ca fiind produs derivat; această proporţie este
+    stabilită de legea dreptului de autor în vigoare în ţara menţionată
+    la articolul 15.
+
+−   Produsul: produsul original şi/sau produsele derivate din acesta.
+
+−   Codul sursă: forma produsului care poate fi observată de către om
+    şi care este cea mai potrivită în vederea studierii şi modificării.
+
+−   Codul executabil: orice cod care a fost în general compilat şi
+    destinat a fi interpretat de un calculator ca fiind un program.
+
+−   Licenţiatorul: persoana fizică sau juridică care distribuie şi/sau
+    comunică produsul în baza unei licenţe.
+
+−   Contribuitorul(ii): orice persoana fizică sau juridică care modifică
+    produsul în baza licenţei sau care contribuie în alt mod la crearea
+    unui produs derivat.
+
+−   Licenţiatul sau „dumneavoastră”: orice persoană fizică sau juridică
+    care foloseşte în orice mod produsul informatic în conformitate cu
+    prevederile licenţei.
+
+−   Distribuirea şi/sau Comunicarea: orice act de vânzare, oferire,
+    împrumut, închiriere, distribuire, comunicare, transmitere sau
+    punerea în orice alt mod la dispoziţia oricărei alte persoane fizice
+    sau juridice, online sau offline, de copii ale produsului.
+
+
+2. Domeniul de aplicare al drepturilor conferite de licenţă
+
+Licenţiatorul vă oferă prin prezenta o licenţă internaţională, scutită de
+redevenţe, neexclusivă, care poate fi sub-licenţiată în următoarele
+scopuri, pe durata valabilităţii dreptului de autor dobândit pentru
+produsul original:
+
+−   folosirea produsului în orice circumstanţe şi pentru orice tip de
+    utilizare,
+
+−   reproducerea produsului,
+
+−   modificarea produsului original şi/sau crearea de produse derivate
+    bazate pe produsul original,
+
+−   comunicarea către public, inclusiv dreptul de a prezenta sau a
+    pune la dispoziţia publicului produsul sau copii ale acestuia şi de a
+    reda produsul în mod public, după caz,
+
+−   distribuirea produsului sau a copiilor acestuia,
+
+−   împrumutul sau închirierea produsului sau a copiilor acestuia,
+
+−   sub-licenţierea drepturilor asupra produsului sau a copiilor acestuia,
+
+Aceste drepturi pot fi exercitate prin intermediul oricărui mijloc de
+comunicare, pe orice suport şi în orice format, fie disponibil deja, fie care
+va fi inventat ulterior, în măsura în care nu contravine legislaţiei în
+vigoare.
+
+În ţările în care se aplică drepturile morale, licenţiatorul renunţă la
+exercitarea dreptului său moral în măsura admisă de lege pentru ca
+licenţa să producă toate efectele care decurg din drepturile patrimoniale
+menţionate mai sus.
+
+Licenţiatorul nu solicită redevenţe licenţiatului şi îi acordă drepturi de
+utilizare neexclusive pentru orice brevet de invenţie deţinut de licenţiator,
+în măsura necesară pentru a se folosi de drepturile acordate asupra
+produsului în baza prezentei licenţe.
+
+
+3. Comunicarea codului sursă
+
+Licenţiatorul poate furniza produsul fie sub formă de cod sursă, fie sub
+formă de cod executabil. În cazul în care produsul este furnizat sub formă
+de cod executabil, licenţiatorul va furniza, de asemenea, o copie a codului
+sursă al produsului în format digital standard pentru fiecare copie a
+produsului pe care licenţiatorul o distribuie, sau indică, într-o menţiune
+care urmează menţiunii dreptului de autor anexată produsului, arhiva
+unde codul sursă este uşor accesibil şi în mod gratuit pe toată durata
+perioadei în care licenţiatorul continuă să distribuie şi/sau să comunice
+produsul.
+
+
+4. Limitări ale dreptului de autor
+
+Nici o prevedere a prezentei licenţe nu are ca scop să priveze licenţiatul
+de beneficiile care rezultă din orice excepţie sau limitare a drepturilor
+exclusive ale titularilor drepturilor asupra produsului original sau a
+programului informatic, sau de încetarea acestor drepturi sau de alte
+limitări aplicabile acestora.
+
+
+5. Obligaţiile licenţiatului
+
+Conferirea drepturilor menţionate mai sus face obiectul unor restricţii şi
+obligaţii impuse licenţiatului. Aceste obligaţii sunt următoarele:
+
+Dreptul de atribuire: licenţiatul nu va aduce modificări menţiunilor
+referitoare la dreptul de autor, brevetul de invenţie sau marca
+înregistrată şi tuturor menţiunilor care fac trimitere la licenţă şi la
+declinarea garanţiilor. Licenţiatul trebuie să includă o copie a acestor
+menţiuni şi o copie a licenţei pentru fiecare copie a produsului pe care o
+distribuie şi/sau o comunică. Licenţiatul trebuie să se asigure de faptul că
+fiecare produs derivat poartă o menţiune vizibilă a faptului că produsul a
+fost modificat şi data modificării.
+
+Clauza „copyleft”: în cazul în care licenţiatul distribuie şi/sau comunică
+copii ale produselor originale sau ale produselor derivate bazate pe
+produsul original, această distribuire şi/sau comunicare se va face în
+condiţiile prevăzute de prezenta licenţă. Licenţiatul (care devine
+licenţiator) nu poate oferi sau impune alţi termeni sau condiţii
+suplimentare în ceea ce priveşte produsul sau produsul derivat care
+modifică sau restricţionează condiţiile prevăzute de licenţă.
+
+Clauza de compatibilitate: în cazul în care licenţiatul distribuie şi/sau
+comunică produse derivate sau copii ale acestora bazate atât pe produsul
+original, cât şi pe un alt produs licenţiat în baza unei licenţe compatibile,
+această distribuire şi/sau comunicare poate fi făcută în condiţiile
+prevăzute de această licenţă compatibilă. În sensul acestei clauze, prin
+“licenţă compatibilă” se înţeleg licenţele enumerate în anexa la prezenta
+licenţă. În cazul în care obligaţiile licenţiatului care derivă din licenţa
+compatibilă sunt în contradicţie cu obligaţiile care derivă din prezenta
+licenţă, vor prevala obligaţiile prevăzute în licenţa compatibilă.
+
+Furnizarea codului sursă: în momentul distribuirii şi/sau comunicării de
+copii ale produsului, licenţiatul va furniza o copie a codului sursă în
+format digital standard sau va indica arhiva în care acest cod sursă este
+uşor accesibil şi în mod gratuit pe parcursul întregii perioade în care
+licenţiatul continuă să distribuie şi/sau să comunice produsul.
+
+Protecţia juridică: prezenta licenţă nu acordă permisiunea de a folosi
+denumirile comerciale, mărcile comerciale, mărcile de servicii sau numele
+licenţiatorului, cu excepţia situaţiei în care sunt necesare pentru o
+utilizare rezonabilă şi normală pentru descrierea originii produsului şi
+pentru reproducerea conţinutului menţiunii referitoare la dreptul de
+autor.
+
+
+6. Lanţul de autori
+
+Licenţiatorul original garantează faptul că dreptul de autor pentru
+produsul original acordat prin prezenta este deţinut de către acesta sau
+este licenţiat în favoarea sa şi are competenţa şi autoritatea de a acorda
+licenţa.
+
+Fiecare contribuitor garantează faptul că dreptul de autor asupra
+modificărilor pe care le aduce produsului este deţinut de acesta sau este
+licenţiat în favoarea sa şi are competenţa şi autoritatea de a acorda
+licenţa.
+
+De fiecare dată când dumneavoastră, în calitate de licenţiat, intraţi în
+posesia produsului, licenţiatorul original şi contribuitorii ulteriori vă
+acordă o licenţă asupra contribuţiilor lor aduse produsului, în condiţiile
+prevăzute de prezenta licenţă.
+
+
+7. Excluderea garanţiilor
+
+Produsul este un produs în curs de elaborare îmbunătăţit în mod continuu
+de mai mulţi contribuitori. Acesta nu este un produs finalizat şi, prin
+urmare, poate conţine deficienţe sau erori inerente acestui tip de
+dezvoltare de programe informatice.
+
+Având în vedere motivul de mai sus, produsul este furnizat în baza
+licenţei “în stadiul în care se află” şi fără alte garanţii de nici o natură
+privind produsul, inclusiv şi fără a se limita la, comercializarea,
+compatibilitatea în anumite scopuri, absenţa defectelor sau a erorilor,
+acurateţea, respectarea drepturilor de proprietate intelectuală, altele
+decât dreptul de autor, astfel cum este menţionat la articolul 6 din
+prezenta licenţă.
+
+Această excludere a garanţiilor reprezintă o parte esenţială a licenţei şi o
+condiţie pentru acordarea oricăror drepturi asupra produsului.
+
+
+8. Excluderea răspunderii
+
+Cu excepţia cazurilor de utilizare rău-intenţionată sau a daunelor cauzate
+în mod direct persoanelor fizice, licenţiatorul nu va fi ţinut răspunzător în
+nici o situaţie, pentru nici un fel de daune directe sau indirecte, materiale
+sau morale care derivă din licenţă sau din utilizarea produsului, inclusiv şi
+fără a se limita la daune aduse fondului de comerţ sau rezultate din
+întreruperea lucrului, nefuncţionarea sau funcţionarea necorespunzătoare
+a calculatorului, pierderea de date sau orice prejudicii comerciale, chiar
+dacă licenţiatorul a fost informat asupra eventualităţii producerii unor
+astfel de daune. Cu toate acestea, licenţiatorul va fi ţinut răspunzător în
+baza normelor imperative referitoare la răspunderea privind produsul în
+măsura în care astfel de norme se aplică în cazul produsului.
+
+
+9. Convenţii suplimentare
+
+Cu ocazia distribuirii produsului original sau a produselor derivate,
+licenţiatul poate opta să încheie o convenţie suplimentară pentru a oferi,
+contra cost, unor terţi, asistenţă, garanţii, despăgubiri sau alte obligaţii de
+răspundere şi/sau servicii care sunt conforme cu prezenta licenţă. Cu
+toate acestea, acceptând astfel de obligaţii, licenţiatul poate acţiona doar
+în nume personal şi pe răspunderea personală şi nu în numele
+licenţiatorului original sau a oricărui alt contribuitor şi doar dacă acceptă
+să despăgubească, să apere interesele şi să nu extindă asupra
+contribuitorului orice răspundere angajată sau orice plângeri formulate
+împotriva unui astfel de contribuitor, datorate faptului că licenţiatul a
+acceptat să ofere o astfel de garanţie sau răspundere suplimentară.
+
+
+10. Acceptarea licenţei
+
+Prevederile prezentei licenţe pot fi acceptate prin apăsarea butonului
+“Sunt de acord" din partea de jos a ferestrei care afişează textul prezentei
+licenţe sau prin declararea consimţământului în orice alt mod similar, în
+conformitate cu normele aplicabile. Prin apăsarea acelui buton, licenţiatul
+indică în mod clar şi irevocabil faptul că acceptă prezenta licenţă, precum
+şi toate clauzele şi condiţiile prevăzute de aceasta.
+
+De asemenea, licenţiatul acceptă în mod irevocabil prezenta licenţă,
+împreună cu toate clauzele şi condiţiile prevăzute de aceasta, în
+momentul în care exercită orice drepturi conferite de articolul 2 al
+prezentei licenţe, precum utilizarea produsului, crearea de către licenţiat
+a unui produs derivat sau distribuirea şi/sau comunicarea de către
+licenţiat a produsului sau a unor copii ale acestuia.
+
+
+11. Informaţii pentru public
+
+În cazul oricărei distribuiri şi/sau comunicări a produsului de către
+licenţiat prin mijloace de comunicare electronică (de exemplu, prin
+oferirea posibilităţii de a descărca produsul de pe un terţ site web),
+canalul de distribuire sau canalul media (de exemplu, o pagină de
+internet) trebuie să furnizeze publicului cel puţin informaţiile necesare în
+temeiul legislaţiei aplicabile privind identitatea şi adresa licenţiatorului,
+licenţa şi modul în care poate fi accesată, încheiată, stocată şi reprodusă
+de către licenţiat.
+
+
+12. Încetarea licenţei
+
+Licenţa şi drepturile conferite de aceasta încetează automat în cazul
+oricărei încălcări de către licenţiat a prevederilor licenţei.
+O astfel de încetare nu va duce la încetarea licenţelor oricărei persoane
+care a intrat în posesia produsului de la licenţiat în baza licenţei, cu
+condiţia ca aceste persoane să respecte în totalitate prevederile licenţei.
+
+
+13. Alte dispoziţii
+
+Fără a aduce atingere articolului 9 de mai sus, licenţa reprezintă acordul
+integral dintre părţi referitor la produsul licenţiat în baza acesteia.
+
+În cazul în care orice prevedere a licenţei este nelegală sau nu poate fi
+pusă în aplicare în conformitate cu normele aplicabile în materie, aceasta
+nu va afecta validitatea sau aplicabilitatea licenţei în ansamblu. Aceste
+prevederi vor fi interpretate şi/sau adaptate după cum se consideră
+necesar pentru a le face valabile şi aplicabile.
+
+Comisia Europeană poate elabora traduceri şi/sau noi versiuni ale acestei
+licenţe care produc obligaţii, în măsura în care acest lucru este necesar şi
+rezonabil. Noile versiuni ale licenţei vor fi publicate cu un număr unic
+corespunzător versiunii. Noua versiune a licenţei devine obligatorie
+pentru licenţiat din momentul în care acesta a luat la cunoştinţă
+publicarea acesteia.
+
+
+14. Jurisdicţie
+
+Orice litigiu rezultând din interpretarea prezentei licenţe, apărut între
+Comisia Europeană, în calitate de licenţiator, şi un licenţiat, va intra sub
+incidenţa jurisdicţiei Curţii de Justiţie a Comunităţilor Europene, aşa cum
+se prevede la articolul 238 din Tratatul de instituire a Comunităţii
+Europene.
+
+Orice litigiu între părţi, altele decât cele în care una dintre părţi este
+Comisia Europeană, şi care rezultă din interpretarea prezentei licenţe va
+intra sub incidenţa jurisdicţiei exclusive a instanţei competente din locul
+în care licenţiatorul îşi are reşedinţa sau îşi exercită activitatea
+comercială principală.
+
+
+15. Legislaţia aplicabilă
+
+Prezenta licenţă intră sub incidenţa legislaţiei statului din Uniunea
+Europeană în care licenţiatorul îşi are reşedinţa sau sediul social.
+
+Prezenta licenţă intră sub incidenţa legislaţiei belgiene în cazul în care:
+
+-   apare un litigiu între Comisia Europeană, în calitate de licenţiator,
+    şi un licenţiat;
+
+−   licenţiatorul, altul decât Comisia Europeană, nu are reşedinţa sau
+    sediul social într-o ţară membră a Uniunii Europene.
+
+
+===
+
+
+Anexa
+
+“Licenţele compatibile” în temeiul articolului 5 EUPL sunt:
+
+−   General Public License (GPL) v. 2
+
+−   Open Software License (OSL) v. 2.1, v. 3.0
+
+−   Common Public License v. 1.0
+
+−   Eclipse Public License v. 1.0
+
+−   Cecill v. 2.0
+

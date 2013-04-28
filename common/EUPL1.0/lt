@@ -1,0 +1,298 @@
+Europos Sąjungos viešoji licencija
+v.1.0
+
+EUPL © Europos bendrija, 2007
+
+Ši Europos Sąjungos viešoji licencija (toliau – EUPL)[EUPL: "European Union Public Licence"]
+taikoma Kūriniui arba Programinei įrangai (kaip apibrėžta toliau), kurie teikiami naudoti
+šioje Licencijoje nustatytomis sąlygomis. Kūrinį naudoti kitaip, negu numatyta pagal šią
+Licenciją, draudžiama (tiek, kiek toks naudojimas patenka į Kūrinio autorių teisių turėtojo
+teisių apimtį).
+
+Originalų kūrinį leidžiama naudoti šioje Licencijoje nustatytomis sąlygomis, kai
+Licenciaras (kaip apibrėžta toliau) po nuorodos į Originalaus kūrinio autorių teises
+pateikia šią nuorodą:
+
+    Licencijuota pagal EUPL V.1.0
+
+arba kitomis priemonėmis išreiškia savo norą leisti jį naudoti pagal EUPL.
+
+
+1. Sąvokų apibrėžimai
+
+Šioje Licencijoje vartojamos sąvokos reiškia:
+
+–   Licencija – ši Licencija.
+
+–   Originalus kūrinys arba Programinė įranga – programinė įranga, kurią platina
+    ir (arba) kurią viešai paskelbia Licenciaras šioje Licencijoje nustatytomis
+    sąlygomis ir kuri gaunama kaip Išeities kodas, taip pat atitinkamai kaip
+    Vykdomasis kodas.
+
+–   Išvestiniai kūriniai – kūriniai arba programinė įranga, kuriuos Licenciatas
+    galėtų sukurti remdamasis Originaliu kūriniu arba jo pakeitimais. Šioje
+    Licencijoje neapibrėžiamas pakeitimų mastas ar ryšys su Originaliu kūriniu,
+    dėl kurių kūrinys pripažįstamas Išvestiniu kūriniu; toks mastas apibrėžiamas
+    autorių teisių įstatymuose, taikomuose 15 straipsnyje minimoje valstybėje.
+
+–   Kūrinys – Originalus kūrinys ir (arba) juo pasinaudojus sukurti Išvestiniai
+    kūriniai.
+
+–   Išeities kodas – žmonėms suprantama Kūrinio forma, kurią patogu nagrinėti ir
+    keisti.
+
+–   Vykdomasis kodas – bet koks įprastai sukompiliuotas kodas, kurį kompiuteris
+    supranta kaip programą.
+
+–   Licenciaras – fizinis arba juridinis asmuo, platinantis Kūrinį ir (arba) viešai
+    paskelbiantis jį Licencijoje nustatytomis sąlygomis.
+
+–   Bendraautoris (bendraautoriai) – bet koks fizinis arba juridinis asmuo, kuris
+    licencijoje nustatytomis sąlygomis keičia Kūrinį arba kitokiu būdu prisideda
+    prie Išvestinio kūrinio sukūrimo.
+
+–   Licenciatas arba „Jūs” – bet koks fizinis arba juridinis asmuo, kuris kuriuo
+    nors būdu naudoja Programinę įrangą Licencijoje nustatytomis sąlygomis.
+
+–   Platinimas ir (arba) Viešas paskelbimas – veikla, susijusi su kurio nors kito
+    fizinio arba juridinio asmens disponuojamo Kūrinio kopijų pardavimu,
+    perleidimu, teikimu panaudai, nuomojimu, platinimu, viešu paskelbimu,
+    transliavimu ar pateikimu naudotis prijungties arba atjungties režimu.
+
+
+2. Licencijos suteikiamų teisių taikymo apimtis
+
+Licenciaras šiuo dokumentu Jums suteikia pasaulinę, neatlygintiną, neišimtinę,
+sublicencijuojamą licenciją užsiimti toliau nurodyta veikla tokios trukmės laikotarpiu,
+kurio metu Originaliam kūriniui taikoma autorių teisių apsauga:
+
+–   naudotis Kūriniu visomis sąlygomis ir visais tikslais,
+
+–   atgaminti Kūrinį,
+
+–   keisti Originalų kūrinį ir remiantis Kūriniu kurti Išvestinius kūrinius,
+
+–   viešai paskelbti, įskaitant teisę leisti viešai juo naudotis arba viešai rodyti
+    (eksponuoti), Kūrinį bei jo kopijas ir prireikus – viešai atlikti Kūrinį,
+
+–   platinti Kūrinį ar jo kopijas,
+
+–   teikti panaudai ir nuomoti Kūrinį ar jo kopijas,
+
+–   sublicencijuoti suteiktas teises į Kūrinį ar jo kopijas.
+
+Tiek, kiek taikomi įstatymai leidžia tai daryti, šios teisės gali būti taikomos bet
+kokioms laikmenoms, įrangai ir formatams, jau žinomiems ar vėliau išrastiems.
+
+Šalyse, kuriose suteikiamos asmeninės neturtinės teisės, Licenciaras atsisako savo
+teisės naudotis asmeninėmis neturtinėmis teisėmis tiek, kiek tai būtina, kad galiotų
+licencija, suteikianti pirmiau nurodytas turtines teises.
+
+Licenciaras suteikia Licenciatui neatlygintinas, neišimtines teises naudotis visais
+Licenciaro turimais patentais tiek, kiek būtina, norint pasinaudoti pagal šią licenciją
+kūriniui taikomomis teisėmis.
+
+
+3. Išeities kodo viešas paskelbimas
+
+Licenciaras gali pateikti Kūrinį išeities arba Vykdomojo kodo forma. Jeigu Kūrinys
+pateikiamas Vykdomojo kodo forma, Licenciaras kartu su kiekviena platinama
+Kūrinio kopija taip pat pateikia Kūrinio Išeities kodo kopiją, kurią galima skaityti
+techninėmis priemonėmis, arba po nuorodos į Kūrinio autorių teises pateikiamoje
+nuorodoje, įvardija saugyklą, kurioje Išeities kodas lengvai ir laisvai prieinamas tol,
+kol Licenciaras platina ir (arba) viešai skelbia Kūrinį.
+
+
+4. Autorių teisių apribojimai
+
+Nė viena šios Licencijos nuostata neleidžia atimti iš Licenciato naudos, gaunamos dėl
+kokios nors išimties, susijusios su Originalaus kūrinio ar Programinės įrangos teisių
+turėtojų išimtinėmis teisėmis, ar dėl tokių teisių apribojimo, teisių išnaudojimo arba
+kitais joms taikomais apribojimais.
+
+
+5. Licenciato pareigos
+
+Pirmiau nurodytų teisių suteikimas priklauso nuo kai kurių Licenciatui taikomų
+apribojimų ir pareigų. Šios pareigos yra tokios:
+
+Autorystės teisė: Licenciatas įsipareigoja nekeisti nuorodų dėl autorių teisių, patentų
+ar prekių ženklų ir įspėjimų, nurodančių Licenciją, bei garantijų ribojimų. Licenciatas
+prie kiekvienos Kūrinio kopijos, kurią jis platina ir (arba) viešai paskelbia, privalo
+pridėti tokių nuorodų kopiją ir Licencijos kopiją. Licenciatas privalo užtikrinti, kad
+kiekvienas Išvestinis kūrinys turėtų aiškias nuorodas apie Kūrinio pakeitimus ir
+pakeitimų datą.
+
+Nuostata dėl laisvo naudojimo („copyleft“): jeigu Licenciatas platina ir (arba)
+viešai paskelbia Originalių kūrinių arba Išvestinių kūrinių, paremtų Originaliu
+kūriniu, kopijas, šis Platinimas ir (arba) Viešas paskelbimas bus atliekamas šioje
+Licencijoje nustatytomis sąlygomis. Licenciatas (tampantis Licenciaru) Kūriniui ar
+Išvestiniam kūriniui negali nustatyti ar taikyti kokių nors papildomų sąlygų, kurios
+keičia ar apriboja Licencijos sąlygas.
+
+Nuostata dėl atitikties: jeigu Licenciatas platina ir (arba) viešai paskelbia Išvestinius
+kūrinius ar jų kopijas, pagrįstas ir Originaliu kūriniu, ir kitu kūriniu, licencijuotu pagal
+Analogiškąją licenciją, toks platinimas ir (arba) viešas paskelbimas gali būti
+atliekamas tos Analogiškosios licencijos sąlygomis. Įgyvendinant šią nuostatą,
+Analogiškoji licencija – tai licencijos, nurodytos šios Licencijos priedėlyje. Jeigu
+Licenciato pareigos pagal Analogiškąją licenciją prieštarauja jo pareigoms pagal šią
+Licenciją, vadovaujamasi pareigomis, nustatytomis pagal Analogiškąją licenciją.
+
+Išeities kodo teikimas: platindamas ir (arba) viešai paskelbdamas Kūrinio kopijas,
+Licenciatas suteiks techninėmis priemonėmis skaityti pritaikytą Išeities kodo kopiją
+arba nurodys saugyklą, kur šis kodas bus lengvai ir laisvai prieinamas tol, kol
+Licenciatas platins ir (arba) viešai skelbs šį Kūrinį.
+
+Teisinė apsauga: ši Licencija nesuteikia leidimo naudoti prekinių pavadinimų, prekių
+ženklų, paslaugų ženklų ar Licenciato vardų, išskyrus atvejus, kai to reikia pagrįstu ir
+įprastu tikslu nurodant Kūrinio kilmę ir atkuriant pranešimo dėl autorių teisių turinį.
+
+
+6. Autorystės seka
+
+Pirminis Licenciaras užtikrina, kad jis turi Originalaus kūrinio autorių teises,
+suteikiamas šiuo dokumentu, arba kad tos teisės jam yra suteiktos pagal licenciją ir
+kad jis turi įgaliojimus išduoti šią Licenciją.
+
+Kiekvienas Bendraautoris užtikrina, kad jo padarytų Kūrinio pakeitimų autorių teisės
+priklauso jam arba yra jam suteiktos pagal licenciją ir kad jis turi įgaliojimus išduoti
+šią Licenciją.
+
+Kiekvieną kartą kai Jūs, kaip Licenciatas, gaunate Kūrinį, pirminis Licenciaras ir
+tolesni Bendraautoriai suteikia Jums licenciją naudotis jų indėliu į Kūrinį šioje
+Licencijoje nustatytomis sąlygomis.
+
+
+7. Garantijos ribojimas
+
+Kūrinys yra kuriamas darbas, prie kurio nuolatinio tobulinimo prisideda daug
+bendraautorių. Tai nėra baigtinis darbas, todėl jame gali būti defektų arba klaidų,
+neišvengiamų kuriant tokią programinę įrangą.
+
+Dėl pirmiau nurodytos priežasties Kūrinys pagal Licenciją teikiamas „toks, koks jis
+yra“, ir be jokių su Kūriniu susijusių garantijų, įskaitant prekybą be apribojimų,
+atitiktį tam tikram tikslui, defektų ar klaidų nebuvimą, tikslumą, intelektinės
+nuosavybės teisių, išskyrus autorių teises, kaip nustatyta šios Licencijos 6 straipsnyje,
+nepažeidimą.
+
+Šis garantijų teikimo apribojimas yra esminė šios Licencijos dalis ir bet kokių teisių į
+Kūrinį suteikimo sąlyga.
+
+
+8. Atsakomybės ribojimas
+
+Išskyrus tyčinius žalos padarymo arba tiesioginio žalos padarymo fiziniams asmenims
+atvejus, Licenciaras nėra atsakingas už bet kokią tiesioginę ar netiesioginę, turtinę ar
+neturtinę žalą, susijusią su šia Licencija arba Kūrinio naudojimu, įskaitant, bet
+neapsiribojant, žalą, susijusią su reputacijos praradimu, darbo nutraukimu,
+kompiuterio gedimais arba trikdžiais, duomenų praradimu ar kokia nors turtine žala,
+net jeigu Licenciaras žinojo apie tokios žalos galimybę. Tačiau Licenciaras yra
+atsakingas pagal produktų saugą reglamentuojančius įstatymus tiek, kiek tokie
+įstatymai taikomi Kūriniui.
+
+
+9. Papildomi susitarimai
+
+Platindami Originalų kūrinį ir Išvestinius kūrinius, Jūs galite nuspręsti sudaryti
+papildomus susitarimus dėl paramos priėmimo, garantijų, nuostolių atlyginimo ar
+kitokių įsipareigojimų, susijusių su atsakomybe, ir (arba) paslaugų, atitinkančių šios
+Licencijos nuostatas, siūlymo ir apmokestinimo. Tačiau prisiėmęs tokius
+įsipareigojimus, Jūs galite veikti tik savo, o ne pirminio Licenciaro ar kurio nors kito
+Bendraautorio vardu, ir, prisiėmęs visą atsakomybę, jeigu sutinkate atlyginti
+nuostolius, ginti Bendraautorius ir nepadaryti jiems žalos, jeigu jiems kyla
+atsakomybė arba reiškiamos pretenzijos dėl to, kad jūs prisiėmėte tokias garantijas ar
+papildomą atsakomybę.
+
+
+10. Sutikimas su licencijos nuostatomis
+
+Su šios Licencijos nuostatomis galite sutikti paspausdami nuorodą „Sutinku“, esančią
+šios Licencijos tekstą pateikiančio lango apačioje, arba patvirtindami savo sutikimą
+bet kokiu kitu būdu, atitinkančiu taikomų įstatymų nuostatas. Jeigu paspaudžiate šią
+nuorodą, tai reiškia, kad aiškiai ir neatšaukiamai sutinkate laikytis šios Licencijos
+nuostatų ir visų jos sąlygų.
+
+Atitinkamai jūs neatšaukiamai sutinkate laikytis šios Licencijos nuostatų ir visų jų
+sąlygų naudodamiesi bet kokiomis šios Licencijos 2 straipsnyje suteikiamomis
+teisėmis, pavyzdžiui, dėl Kūrinio naudojimo, Jūsų Išvestinių kūrinių sukūrimo arba
+Kūrinio ir jo kopijų platinimo ir (arba) viešo paskelbimo.
+
+
+11. Visuomenės informavimas
+
+Jeigu platinate Kūrinį ir (arba) viešai jį paskelbiate elektroninėmis priemonėmis
+(pavyzdžiui, siūlote parsisiųsti Kūrinį iš nuotolinės vietos), platinimo kanale ar terpėje
+(pavyzdžiui, tinklalapyje) visuomenei turi bent jau būti teikiama informacija, kaip
+reikalaujama pagal taikomus įstatymus, apie Licenciaro tapatybę ir adresą, šią
+Licenciją ir apie tai, kaip Licenciatas gali ja naudotis, ją sudaryti, saugoti bei atkurti.
+
+
+12. Licencijos galiojimo nutraukimas
+
+Licencijos ir jos suteikiamų teisių galiojimas nutrūksta Licenciatui pažeidus šios
+Licencijos sąlygas.
+
+Toks galiojimo nutraukimas nepanaikina nė vieno asmens, kuris Kūrinį iš Licenciato
+gavo Licencijoje nustatytomis sąlygomis, turimų licencijų, jeigu tokie asmenys ir
+toliau atitinka Licencijoje nustatytas sąlygas.
+
+
+13. Įvairios nuostatos
+
+Nepažeidžiant pirmiau nurodyto 9 straipsnio, ši Licencija reiškia visišką Šalių
+susitarimą dėl toliau nurodyto licencijuojamo Kūrinio.
+Jeigu kuri nors Licencijos nuostata pagal taikomus įstatymus negalioja arba yra
+neįvykdoma, tai nedaro jokio poveikio visos Licencijos nuostatų galiojimui ar
+vykdymui. Tokia nuostata aiškinama ir (arba) keičiama taip, kad galiotų ir būtų
+įvykdoma.
+
+Prireikus ir dėl pagrįstų priežasčių, Europos Komisija gali patvirtinti šios Licencijos
+vertimus ir (arba) privalomas naujas redakcijas. Naujos šios Licencijos redakcijos bus
+paskelbiamos su unikaliu redakcijos numeriu. Naujoji Licencijos redakcija Jums
+tampa privaloma, nuo datos kai sužinote apie jos paskelbimą.
+
+
+14. Jurisdikcija
+
+Bet kokius teisinius ginčus dėl šios Licencijos aiškinimo, kylančius tarp Europos
+Komisijos, kaip Licenciaro, ir bet kurio Licenciato sprendžia Europos Bendrijų
+Teisingumo Teismas, kaip nustatyta Europos bendrijos steigimo sutarties
+238 straipsnyje.
+
+Bet kokius teisinius ginčus dėl šios Licencijos aiškinimo, kylančius tarp šalių, kurių
+nė viena nėra Europos Komisija, sprendžia išimtinę jurisdikciją turintis valstybės,
+kurioje Licenciaras gyvena arba vykdo savo pagrindinę veiklą, kompetentingas
+teismas.
+
+
+15. Taikytina teisė
+
+Šiai Licencijai taikoma tos Europos Sąjungos valstybės, kurioje Licenciaras gyvena
+arba turi savo registruotą buveinę, teisė.
+
+Licencijai taikoma Belgijos teisė, jeigu:
+
+-   teisiniai ginčai kyla tarp Europos Komisijos, kaip Licenciaro, ir bet kurio
+    Licenciato,
+
+-   Licenciaras, kuris nėra Europos Komisija, jokioje Europos Sąjungos
+    valstybėje negyvena ar neturi registruotos buveinės.
+
+
+===
+
+
+Priedėlis
+
+Pagal EUPL 5 straipsnį „Analogiškosios licencijos“ yra:
+
+–   General Public Licence (GPL) v. 2
+
+–   Open Software Licence (OSL) v. 2.1, v. 3.0
+
+–   Common Public Licence v. 1.0
+
+–   Eclipse Public Licence v. 1.0
+
+–   Cecill v. 2.0
+

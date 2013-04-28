@@ -1,0 +1,285 @@
+Veřejná licence Evropské unie
+v.1.0
+
+EUPL © Evropské společenství 2007
+
+Tato veřejná licence Evropské unie ("EUPL")[EUPL: "European Union Public Licence"]
+se vztahuje na dílo nebo software (ve smyslu níže uvedených definic), které se poskytují
+podle podmínek této licence. Použití díla v rozporu s touto licencí je zakázáno (v míře,
+v jaké se na uvedené použití vztahuje právo držitele autorských práv k dílu).
+
+Původní dílo se poskytuje podle podmínek této licence, pokud poskytovatel licence (ve
+smyslu níže uvedených definic) bezprostředně za doložku o autorských právech k původnímu
+dílu umístil toto upozornění:
+
+    Na toto dílo se vztahuje licence EUPL V.1.0
+
+nebo jiným způsobem vyjádřil úmysl, aby se původní dílo poskytovalo podle licence EUPL.
+
+
+1. Definice
+
+V rámci této licence mají následující výrazy tento význam:
+
+–   Licencí se rozumí tato licence.
+
+–   Původním dílem nebo softwarem se rozumí software šířený nebo sdělený
+    poskytovatelem licence podle této licence, dostupný jako zdrojový kód anebo též jako
+    spustitelný kód.
+
+–   Odvozeným dílem se rozumí dílo nebo software, které by nabyvatel licence mohl
+    vytvořit na základě původního díla nebo jeho úpravami. V této licenci není definováno,
+    jaká musí být míra úprav nebo závislosti na původním díle, aby bylo hodnoceno jako
+    odvozené dílo; tuto míru určuje autorské právo použitelné v zemi podle článku 15.
+
+–   Dílem se rozumí původní dílo nebo díla z něj odvozená.
+
+–   Zdrojovým kódem se rozumí taková podoba díla čitelná pro člověka, kterou mohou lidé
+    co nejpohodlněji analyzovat a upravovat.
+
+–   Spustitelným kódem se rozumí takový kód, který byl obecně sestaven a jenž má být
+    interpretován počítačem jako program.
+
+–   Poskytovatelem licence se rozumí fyzická nebo právnická osoba, která dílo podle
+    licence šíří nebo sděluje.
+
+–   Přispěvatelem se rozumí fyzická nebo právnická osoba, jež dílo podle licence upraví
+    nebo jinak přispěje k vytvoření odvozeného díla.
+
+–   Nabyvatelem licence nebo „vámi“ se rozumí fyzická nebo právnická osoba, která
+    používá software podle podmínek licence.
+
+–   Šířením nebo sdělováním se rozumí prodej, předání, zapůjčení, pronájem, šíření,
+    sdělování, přenos nebo jiný způsob zpřístupnění kopií díla jiné fyzické nebo právnické
+    osobě, a to on-line nebo off-line.
+
+
+2. Rozsah práv udělených licencí
+
+Poskytovatel licence vám tímto po dobu trvání autorských práv k původnímu dílu udílí
+celosvětovou, bezúplatnou, nevýhradní licenci s možností poskytování podlicence, k těmto
+činnostem:
+
+–   používání díla za jakýchkoli okolností a pro veškerá použití,
+
+–   rozmnožování díla,
+
+–   úpravě původního díla a vytvoření odvozených děl na základě díla,
+
+–   sdělování veřejnosti, včetně práva zpřístupnit nebo zobrazit dílo nebo jeho kopie
+    veřejnosti, popřípadě veřejně dílo využívat,
+
+–   šířit dílo nebo jeho kopií,
+
+–   zapůjčení a pronájem díla nebo jeho kopií,
+
+–   poskytování podlicencí k dílu nebo jeho kopiím.
+
+Uvedená práva lze uplatnit na všechna média, nosiče a formáty, které jsou v současnosti
+známé nebo budou v budoucnu vynalezeny, do té míry, do jaké to připouští rozhodné právo.
+
+V zemích, kde se uplatňují osobnostní práva, vzdává se poskytovatel licence práva vykonávat
+své osobnostní právo v rozsahu, v jakém to rozhodné právo umožňuje, aby tak byl umožněn
+výkon majetkových práv výše uvedených.
+
+Poskytovatel licence v míře nezbytné k využívání práv udělených k dílu podle této licence
+udílí nabyvateli licence bezúplatná nevýlučná práva na využití případných patentů
+náležejících poskytovateli licence.
+
+
+3. Sdělování zdrojového kódu
+
+Poskytovatel licence může poskytnout dílo buď v podobě zdrojového kódu, nebo jako
+spustitelný kód. Pokud se dílo poskytuje v podobě spustitelného kódu, poskytovatel licence
+navíc společně s každou kopií díla, kterou šíří nebo na ni odkazuje, poskytne strojově čitelné
+vyhotovení zdrojového kódu díla; může též v závěru doložky o autorských právech, připojené
+k dílu, odkázat na umístění, kde se po dobu, kdy poskytovatel licence šíří nebo sděluje dílo,
+nachází snadno a volně dostupný zdrojový kód.
+
+
+4. Omezení autorských práv
+
+Jakýmkoli ustanovením této licence nemůže být nabyvatel licence zbaven výhod z případných
+výjimek z výlučných práv majitelů práv k původnímu dílu či softwaru nebo případného
+omezení těchto výlučných práv, nebo z vyčerpání uvedených práv nebo z jiných relevantních
+omezení vztahujících se k takovým právům.
+
+
+5. Závazky nabyvatele licence
+
+Udělení uvedených práv podléhá určitým omezením a závazkům vůči nabyvateli licence.
+Jedná se o tyto závazky:
+
+Právo na označení: Nabyvatel licence zachová beze změny veškerá oznámení (doložky)
+týkající se autorských práv, patentů či ochranných známek a veškerá oznámení odkazující na
+licenci a na vyloučení záruk. Kopii takových oznámení a kopii licence musí nabyvatel licence
+připojit ke každé kopii díla, kterou šíří nebo sděluje. Nabyvatel licence musí zajistit, aby
+odvozené dílo bylo opatřeno výrazným oznámením, že původní dílo bylo upraveno, a též
+datem úpravy.
+
+Ustanovení o nezměnitelnosti podmínek ("copyleft clause"): Pokud nabyvatel licence šíří
+nebo sděluje kopie původních děl nebo z nich odvozených děl, uvedené šíření nebo uvedené
+sdělování bude probíhat podle podmínek této licence. Nabyvatel licence (který se stává
+poskytovatelem podlicence) nemůže v souvislosti s dílem nebo odvozeným dílem nabízet
+nebo ukládat žádné dodatečné podmínky, které by měnily nebo omezovaly podmínky licence.
+
+Ustanovení o slučitelnosti: Pokud nabyvatel licence šíří nebo sděluje odvozená díla nebo
+jejich kopie na základě jak původního díla, tak jiných děl, na které se vztahuje slučitelná
+licence, lze tak činit podle podmínek uvedené slučitelné licence. Pro účely tohoto ustanovení
+se „slučitelnou licencí“ rozumí licence uvedené v příloze této licence. Jsou-li závazky
+nabyvatele licence podle slučitelné licence v rozporu s jeho závazky podle této licence, mají
+přednost závazky dle slučitelné licence.
+
+Poskytování zdrojového kódu: Při šíření nebo sdělování kopií díla nabyvatel licence
+poskytne strojově čitelné znění zdrojového kódu nebo odkáže na umístění, kde po dobu, kdy
+nabyvatel licence pokračuje v šíření nebo sdělování díla, je uvedený zdroj snadno a volně
+přístupný.
+
+Právní ochrana: Touto licencí se nepovoluje použít obchodní názvy/firmy, ochranné známky
+nebo označení výrobků poskytovatele licence nebo označení související s poskytováním
+služeb poskytovatele licence, s výjimkou případů, kdy tento požadavek vzniká s ohledem na
+přiměřené a obvyklé použití při popisu původu díla a při reprodukci obsahu doložky
+o autorských právech.
+
+
+6. Řetězec autorství
+
+Původní poskytovatel licence prohlašuje, že je majitelem autorských práv k původnímu dílu,
+jež jsou předmětem této licence, resp. že mu k němu byla udělena licence a že má veškerá
+oprávnění licenci udělit.
+
+Každý přispěvatel prohlašuje, že je majitelem autorských práv k úpravám, kterými dílo mění,
+nebo že mu k nim byla udělena licence a že má veškerá oprávnění licenci udělit.
+
+Kdykoli jako nabyvatel licence obdržíte dílo, původní poskytovatel licence a následní
+přispěvatelé vám udílejí licenci ke svým úpravám díla podle podmínek této licence.
+
+
+7. Vyloučení záruky
+
+Dílo se chápe jako dílo, které se stále vyvíjí a které četní přispěvatelé průběžně zdokonalují.
+Nejedná se o hotové dílo, a může proto obsahovat vady či logické chyby v programu, které se
+při takovémto způsobu vývoje softwaru vyskytují.
+
+Z uvedeného důvodu se dílo podle licence poskytuje v podobě, tak jak je, a bez jakýchkoli
+záruk k dílu, včetně, mimo jiné, obchodovatelnosti, vhodnosti pro konkrétní účel,
+bezchybnosti a nechybovosti, přesnosti, neporušení práv duševního vlastnictví vyjma práva
+autorského, jak je uvedeno v článku 6 této licence.
+
+Toto vyloučení záruky je nedílnou součástí licence a podmínkou pro udělení jakýchkoli práv
+k dílu.
+
+
+8. Vyloučení odpovědnosti
+
+S výjimkou případů úmyslného pochybení nebo škod přímo způsobených fyzickým osobám
+nenese poskytovatel licence v žádném případě odpovědnost za jakékoli přímé nebo nepřímé
+škody, hmotnou nebo mravní újmu či jakékoli jiné škody vyplývající z licence nebo použití
+díla, včetně, mimo jiné, škod způsobených ztrátou dobré pověsti, přerušením práce, poruchou
+nebo nesprávným fungováním počítače, ztrátou dat nebo jakýchkoli škod komerční povahy,
+a to i tehdy, pokud poskytovatel licence byl na možnost takové škody upozorněn.
+Poskytovatel licence však ponese odpovědnost podle zákonů týkajících se odpovědnosti za
+škodu způsobenou vadou výrobku v míře, v jaké se takové zákony na dílo vztahují.
+
+
+9. Dodatečné dohody
+
+Při šíření původního díla nebo odvozených děl můžete uzavřít dodatečnou dohodu, kterou
+nabídnete, a to i úplatně, služby podpory, další záruky, sliby odškodnění nebo dalších závazky
+nebo služby, které jsou v souladu s touto licencí. Pokud však na sebe vezmete uvedené
+závazky, můžete jednat pouze vlastním jménem a výhradně na vlastní odpovědnost, nikoli
+jménem původního poskytovatele licence či jakéhokoli dalšího přispěvatele, a pouze za
+podmínky, že odškodníte, budete hájit a uchráníte před škodou nebo nároky uplatňovanými
+proti příslušnému přispěvateli v důsledku skutečnosti, že přijmete uvedenou záruku nebo
+dodatečnou odpovědnost.
+
+
+10. Přijetí licence
+
+S ustanoveními této licence lze vyjádřit souhlas klepnutím na ikonu „Souhlasím“ („I agree“)
+umístěnou pod tlačítkem okna, kde je zobrazeno znění této licence, nebo vyjádřením souhlasu
+jakýmkoli obdobným způsobem podle rozhodného práva. Klepnutím na uvedenou ikonu
+vyjadřujete zřejmý a neodvolatelný souhlas s touto licencí a veškerými jejími podmínkami.
+Obdobně tuto licenci a veškeré její podmínky neodvolatelně přijímáte, pokud vykonáváte
+práva, která jsou Vám poskytnuta v souladu s článkem 2 této licence, zejm. pokud dílo
+užíváte, vytváříte odvozené dílo nebo dílo nebo jeho kopie šíříte nebo sdělujete.
+
+
+11. Informace pro veřejnost
+
+Pokud dílo šíříte nebo sdělujete prostřednictvím elektronické komunikace (například nabízíte
+stažení díla ze vzdáleného umístění), musí příslušný distribuční kanál nebo média (například
+internetové stránky) uvádět alespoň takové informace určené veřejnosti, které jsou
+požadované rozhodným právem ohledně identifikace a adresy poskytovatele licence, licence
+samotné a způsobu jejího zpřístupnění, uzavření, reprodukování a uchovávání nabyvatelem
+licence.
+
+
+12. Zánik licence
+
+Platnost licence a práv touto licencí udělených bez dalšího zaniká, pokud nabyvatel licence
+poruší jakýmkoli způsobem podmínky licence.
+
+Uvedeným zánikem není dotčena licence jakékoli osoby, která podle licence dílo obdržela od
+nabyvatele licence, za podmínky, že takové osoba nadále plně jedná v souladu s podmínkami
+licence.
+
+
+13. Ostatní ustanovení
+
+Aniž je dotčen článek 9, licence představuje úplnou dohodu mezi stranami, pokud jde o dílo,
+na které se vztahuje tato licence.
+
+Je-li podle rozhodného práva jakékoli ustanovení této licence neplatné nebo nevymahatelné,
+neovlivní tato skutečnost platnost nebo vymahatelnost licence jako celku. Takové ustanovení
+se vyloží nebo v nutné míře upraví tak, aby bylo platné a vymahatelné.
+
+Evropská komise může v požadované a přiměřené míře uvést v účinnost překlady nebo
+závazné nové verze této licence. Při zveřejnění nových verzí bude každé licenci přiděleno
+jedinečné číslo verze. Nová verze licence se pro vás stává závaznou, jakmile se dozvíte
+o jejím zveřejnění.
+
+
+14. Soudní příslušnost
+
+Soudní spor, který by popřípadě vyplynul z výkladu této licence, mezi Evropskou komisí jako
+poskytovatelem licence a jakýmkoli nabyvatelem licence, se bude řídit pravomocí Soudního
+dvora Evropských společenství, jak stanoví článek 238 Smlouvy o založení Evropského
+společenství.
+
+Soudní spor, který by popřípadě vyplynul z výkladu této licence, mezi stranami odlišnými od
+Evropské komise se bude řídit výlučnou pravomocí příslušného soudu, kde má poskytovatel
+licence bydliště nebo vykonává hlavní obchodní činnost.
+
+
+15. Rozhodné právo
+
+Tato licence se řídí právem toho státu Evropské unie, kde má poskytovatel licence bydliště
+nebo sídlo podnikání.
+
+Tato licence se řídí belgickým právem, za podmínky, že:
+
+–  vznikne soudní spor mezi Evropskou komisí jako poskytovatelem licence a jakýmkoli
+   nabyvatelem licence,
+
+–  poskytovatel licence odlišný od Evropské komise nemá bydliště nebo sídlo podnikání
+   v některém ze států Evropské unie.
+
+
+===
+
+
+Příloha
+
+„Slučitelnými licencemi“ podle článku 5 licence EUPL se rozumí:
+
+–   General Public License (GPL) v. 2
+
+–   Open Software License (OSL) v. 2.1, v. 3.0
+
+–   Common Public License v. 1.0
+
+–   Eclipse Public License v. 1.0
+
+–   Cecill v. 2.0
+
