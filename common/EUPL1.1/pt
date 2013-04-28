@@ -1,0 +1,306 @@
+Licença Pública da União Europeia
+v.1.1
+
+EUPL © Comunidade Europeia 2007
+
+A presente licença pública da União Europeia (“EUPL”)[EUPL: "European Union Public Licence"]
+aplica-se a qualquer obra ou software (como definido abaixo) que seja fornecido nos termos
+da presente licença. É proibida qualquer utilização da obra diferente da autorizada nos
+termos da presente licença (na medida em que tal utilização esteja abrangida por um direito
+do titular dos direitos de autor da obra).
+
+A obra original é fornecida nos termos da presente licença caso o licenciante (como
+definido abaixo) tenha colocado o seguinte aviso imediatamente após a informação
+sobre os direitos de autor respeitantes à obra original:
+
+    Software licenciado nos termos da EUPL V.1.1
+
+ou tenha expresso por qualquer outro meio a sua vontade de licenciar a obra nos
+termos da EUPL.
+
+
+1. Definições
+
+Na presente licença, entende-se por:
+
+-   Licença: a presente licença.
+
+-   Obra original ou software: software distribuído e/ou comunicado pelo licenciante
+    nos termos da presente licença, disponível como código-fonte e também como código
+    executável, consoante o caso.
+
+-   Obras derivadas: obras ou software que podem ser criados pelo licenciado com base
+    na obra original ou mediante modificações nela introduzidas. A presente licença não
+    define o grau de modificação ou de dependência em relação à obra original necessário
+    para classificar uma obra como obra derivada; esse grau é determinado pela legislação
+    relativa aos direitos de autor aplicável no país mencionado no ponto 15.
+
+-   Obra: a obra original e/ou as obras dela derivadas.
+
+-   Código-fonte: o formato legível por pessoas da obra que é o mais adequado para ser
+    examinado e modificado.
+
+-   Código executável: qualquer código que, em geral, foi compilado e se destina a ser
+    interpretado por um computador como um programa.
+
+-   Licenciante: pessoa singular ou colectiva que distribui e/ou comunica a obra nos
+    termos da licença.
+
+-   Contribuidor(es): pessoa singular ou colectiva que modifica a obra abrangida pela
+    licença ou contribui de outro modo para a criação de uma obra derivada.
+
+-   Licenciado: pessoa singular ou colectiva que utiliza o software nos termos da
+    licença.
+
+-   Distribuição e/ou comunicação: acto de venda, doação, comodato, locação,
+    distribuição, comunicação, transmissão ou qualquer outra forma de disponibilização,
+    em linha ou fora de linha, de cópias da obra ou do acesso às suas funcionalidades
+    essenciais a qualquer outra pessoa singular ou colectiva.
+
+
+2. Âmbito dos direitos concedidos pela licença
+
+O licenciante concede ao licenciado uma licença mundial, gratuita, não exclusiva e
+sublicenciável, pelo período de duração dos direitos de autor sobre a obra original,
+para praticar os seguintes actos:
+
+-   utilizar a obra em quaisquer circunstâncias e para quaisquer fins,
+
+-   reproduzir a obra,
+
+-   modificar a obra original e fazer obras derivadas baseadas na obra,
+
+-   comunicar a obra ao público, nomeadamente disponibilizando ou
+    apresentando a obra ou cópias da obra ao público ou executando-a
+    publicamente, consoante o caso,
+
+-   distribuir a obra ou cópias desta,
+
+-   emprestar e locar a obra ou cópias desta,
+
+-   sublicenciar os direitos sobre a obra ou cópias desta.
+
+Estes direitos podem ser exercidos através de quaisquer meios, suportes ou formatos,
+conhecidos ou que venham a ser inventados, na medida em que tal seja permitido nos
+termos da legislação aplicável.
+
+Nos países em que sejam reconhecidos direitos morais, o licenciante renuncia aos
+seus direitos morais na medida em que a lei o permita, a fim de tornar efectiva a
+licença dos direitos patrimoniais acima enumerados.
+
+O licenciante concede ao licenciado, a título gratuito e não exclusivo, os direitos de
+utilização de quaisquer patentes de que o licenciante seja titular, na medida do
+necessário para a utilização dos direitos concedidos sobre a obra pela presente licença.
+
+
+3. Comunicação do código-fonte
+
+O licenciante pode fornecer a obra como código–fonte ou como código executável.
+Caso a obra seja fornecida como código executável, o licenciante fornece ainda uma
+cópia legível por computador do código–fonte da obra, juntamente com cada cópia da
+obra que o licenciante distribui, ou indica, em aviso colocado a seguir à informação
+sobre os direitos de autor que acompanha a obra, um repositório onde o código–fonte
+esteja acessível fácil e gratuitamente enquanto o licenciante continuar a distribuir e/ou
+comunicar a obra.
+
+
+4. Limitação dos direitos de autor
+
+A presente licença não pretende, de modo algum, privar o licenciado dos benefícios
+decorrentes de qualquer excepção ou limitação dos direitos exclusivos dos titulares
+dos direitos sobre a obra original ou o software, da caducidade desses direitos ou de
+outras limitações aplicáveis.
+
+
+5. Obrigações previstas na licença
+
+A concessão dos direitos acima mencionados está sujeita a algumas restrições e
+obrigações impostas ao licenciado. As obrigações são as seguintes:
+
+Direito de atribuição: o licenciado deve manter intactos todos os avisos sobre
+direitos de autor, patentes ou marcas, bem como todos os avisos que se referem à
+licença e à exclusão de garantia. O licenciado deve juntar uma cópia destes avisos e
+uma cópia da licença a cada cópia da obra que distribua e/ou comunique. O licenciado
+assegura que qualquer obra derivada contenha um aviso bem visível da alteração da
+obra e da data dessa alteração.
+
+Cláusula Copyleft: caso o licenciado distribua e/ou comunique cópias da obra
+original ou de obras derivadas baseadas na obra original, tal distribuição e/ou
+comunicação é feita nos termos da presente licença ou de uma versão posterior da
+presente licença, a menos que a obra original seja expressa e exclusivamente
+distribuída nos termos da presente versão da licença. O licenciado (que se torna
+licenciante) não pode oferecer ou impor à obra ou à obra derivada termos ou
+condições suplementares que alterem ou restrinjam os termos da licença.
+
+Cláusula de compatibilidade: caso o licenciado distribua e/ou comunique obras
+derivadas ou cópias destas baseadas na obra original e noutras obras licenciadas nos
+termos de uma licença compatível, tal distribuição e/ou comunicação pode ser feita
+nos termos dessa licença compatível. No âmbito da presente cláusula, entende-se por
+“licença compatível” uma licença enumerada no apêndice anexo à presente licença.
+Caso as obrigações do licenciado nos termos da licença compatível colidam com as
+suas obrigações nos termos da presente licença, prevalecem as obrigações da licença
+compatível.
+
+Fornecimento do código-fonte: ao distribuir e/ou comunicar cópias da obra, o
+licenciado fornece uma cópia legível por computador do código–fonte ou indica um
+repositório onde este código esteja disponível fácil e gratuitamente enquanto o
+licenciado continuar a distribuir e/ou comunicar a obra.
+
+Protecção jurídica: a presente licença não permite a utilização de firmas, marcas ou
+nomes do licenciante, excepto na medida do necessário para uma utilização razoável e
+conforme com as práticas habituais na descrição da origem da obra e na reprodução
+do teor do aviso sobre os direitos de autor
+
+
+6. Cadeia de criação
+
+O licenciante original garante que os direitos de autor sobre a obra original
+concedidos pela presente licença lhe pertencem ou lhe foram licenciados e que tem
+legitimidade para conceder a licença.
+
+Cada contribuidor garante que os direitos de autor sobre as alterações que introduziu
+na obra lhe pertencem ou lhe foram licenciados e que tem legitimidade para conceder
+a licença.
+
+Sempre que o licenciado aceite a licença, o licenciante original e os contribuidores
+subsequentes concedem ao licenciado uma licença respeitante aos seus contributos
+para a obra nos termos da presente licença.
+
+
+7. Exclusão de garantia
+
+A obra é um trabalho em curso, continuamente melhorado por numerosos
+contribuidores. Não é um trabalho acabado, pelo que pode conter defeitos ou erros
+inerentes a este tipo de trabalho de criação de software.
+
+Por essa razão, a obra é fornecida "tal e qual" nos termos da licença e sem quaisquer
+garantias, como, entre outras, as respeitantes à comercialização, adequação a um
+determinado fim, ausência de defeitos ou erros, fiabilidade e não-violação dos direitos
+de propriedade intelectual distintos dos direitos de autor a que se refere o ponto 6 da
+presente licença.
+
+A presente exclusão de garantia constitui um elemento essencial da licença e uma
+condição para a concessão de quaisquer direitos sobre a obra.
+
+
+8. Exclusão de responsabilidade
+
+Exceptuados os casos de conduta dolosa ou de danos directamente causados a pessoas
+singulares, o licenciante não é, em caso algum, responsável por quaisquer danos
+directos ou indirectos, materiais ou morais, de qualquer natureza, decorrentes da
+licença ou da utilização da obra, como, por exemplo, danos por perda de clientela,
+paragem do trabalho, falhas ou anomalias no funcionamento do equipamento
+informático, perda de dados ou qualquer dano comercial, ainda que o licenciante
+tenha sido avisado da possibilidade da ocorrência de tais danos. No entanto, o
+licenciante é responsável nos termos da legislação relativa à responsabilidade por
+produtos na medida em que tal legislação seja aplicável à obra.
+
+
+9. Acordos suplementares
+
+Ao distribuir a obra original ou obras derivadas, o licenciado (enquanto licenciante)
+pode concluir um acordo suplementar para a oferta remunerada de apoio, garantia,
+indemnização ou qualquer outra obrigação de responsabilidade e/ou de serviço
+compatível com a presente licença. No entanto, ao aceitar essas obrigações, o
+licenciado (enquanto licenciante) age apenas em seu nome e por sua exclusiva
+responsabilidade e não em nome do licenciante original ou de qualquer outro
+contribuidor e apenas no caso de o licenciado (enquanto licenciante) aceitar
+indemnizar e defender estes contribuidores, exonerando-os de qualquer
+responsabilidade caso venham a ser acusados como consequência de o licenciado
+(enquanto licenciante) ter aceite tais obrigações de garantia ou de responsabilidade
+suplementar.
+
+
+10. Aceitação da licença
+
+Para aceitar o disposto na presente licença, o licenciado pode clicar no ícone
+“Aceito”, situado na parte inferior de uma janela que contém o texto da presente
+licença, ou exprimir o seu consentimento por qualquer outra forma similar, em
+conformidade com a legislação aplicável. Ao clicar no referido ícone, o licenciado
+aceita de forma clara e irrevogável a presente licença e os seus termos e condições.
+
+Do mesmo modo, o licenciado aceita irrevogavelmente a presente licença, bem como
+os seus termos e condições, ao exercer quaisquer direitos concedidos pelo ponto 2 da
+presente licença, nomeadamente a utilização da obra, a criação pelo licenciado de uma
+obra derivada ou a distribuição e/ou comunicação pelo licenciado da obra ou de
+cópias desta.
+
+
+11. Informação ao público
+
+Caso o licenciado distribua e/ou comunique a obra através de meios de comunicação
+electrónicos (por exemplo, oferecendo a possibilidade de a telecarregar), o canal ou
+meio de distribuição (por exemplo, um sítio Web) deve fornecer ao público, no
+mínimo, a informação exigida pela legislação aplicável no que respeita ao licenciante,
+à licença e ao modo como pode ser obtida, concluída, armazenada e reproduzida pelo
+licenciado.
+
+
+12. Cessação da licença
+
+A licença e os direitos por ela concedidos cessam automaticamente caso o licenciado
+não respeite o disposto na licença.
+
+Esta cessação não acarreta a cessação das licenças das pessoas que tenham recebido a
+obra do licenciado nos termos da licença, desde que essas pessoas continuem a
+respeitar plenamente o disposto na licença.
+
+
+13. Diversos
+
+Sem prejuízo do disposto no ponto 9, a licença representa o acordo integral entre as
+Partes no que respeita à obra licenciada pela presente licença.
+
+Caso uma disposição da licença seja inválida ou ineficaz por força da legislação
+aplicável, tal não afecta a validade ou a eficácia da licença no seu todo. Tal disposição
+será interpretada e/ou reformulada na medida do necessário para a tornar válida e
+eficaz.
+
+A Comissão Europeia pode publicar outras versões linguísticas e/ou novas versões da
+presente licença, na medida em que tal seja necessário e razoável, sem reduzir o
+âmbito de aplicação dos direitos concedidos pela licença. As novas versões da licença
+serão publicadas com um número de versão único.
+
+Todas as versões linguísticas da presente licença, aprovadas pela Comissão Europeia,
+têm idêntico valor. As Partes podem utilizar a versão linguística da sua preferência.
+
+
+14. Jurisdição
+
+O Tribunal de Justiça das Comunidades Europeias tem competência para dirimir
+qualquer litígio resultante da interpretação da presente licença entre a Comissão
+Europeia, enquanto licenciante, e qualquer licenciado, em conformidade com o
+disposto no artigo 238.º do Tratado que institui a Comunidade Europeia.
+
+O tribunal da residência do licenciante ou do local onde este exerce a sua actividade
+principal tem competência para dirimir qualquer litígio entre Partes, excepto a
+Comissão Europeia, resultante da interpretação da presente licença.
+
+
+15. Direito aplicável
+
+A presente licença é regida pelo direito do país da União Europeia onde reside ou tem
+sede o licenciante.
+
+A presente licença é regida pelo direito belga, caso:
+
+-   surja um litígio entre a Comissão Europeia, enquanto licenciante, e qualquer
+    licenciado;
+
+-   o licenciante, excepto a Comissão Europeia, não tenha residência ou sede
+    social num país da União Europeia.
+
+
+===
+
+
+Apêndice
+
+As “licenças compatíveis” a que se refere o ponto 5 da EUPL são:
+
+- GNU General Public License (GNU GPL) v. 2
+- Open Software License (OSL) v. 2.1, v. 3.0
+- Common Public License v. 1.0
+- Eclipse Public License v. 1.0
+- Cecill v. 2.0
+

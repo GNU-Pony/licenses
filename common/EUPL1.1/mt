@@ -1,0 +1,309 @@
+Liċenzja Pubblika tal-Unjoni Ewropea
+v.1.1
+
+EUPL © il-Komunità Ewropea 2007
+
+Din il-Liċenzja Pubblika tal-Unjoni Ewropea (l-“EUPL”)[EUPL: "European Union Public Licence"]
+tapplika għax-Xogħol jew is-Softwer (kif definit hawn taħt) li jiġi pprovdut skont it-termini
+ta' din il-Liċenzja. Kwalunkwe użu tax-Xogħol, għajr kif awtorizzat permezz ta' din
+il-Liċenzja, huwa pprojbit (sakemm tali użu ma jkunx kopert bid-drittijiet tal-awtur tax-Xogħol).
+
+Ix-Xogħol Oriġinali huwa pprovdut skont ir-rekwiżiti ta' din il-Liċenzja meta lKonċedent
+tal-Liċenzja (kif definita hawn taħt) ikun ħareġ l-avviż li ġej immedjatament wara li jkun
+inħareġ l-avviż tad-drittijiet tal-awtur (copyright notice) għax-Xogħol Oriġinali:
+
+    Mogħti liċenzja f'konformità mal-EUPL v.1.1
+
+jew tkun esprimiet b'xi mod jew ieħor ix-xewqa li tagħti liċenzja f'konformità malEUPL.
+
+
+1. Definizzjonijiet
+
+F'din il-Liċenzja, it-termini li ġejjin għandhom dawn it-tifsiriet:
+
+-   Il-Liċenzja: din il-Liċenzja.
+
+-   Ix-Xogħol Oriġinali jew is-Softwer: is-softwer distribwit u/jew ikkomunikat
+    millKonċedent tal-Liċenzja skont din il-Liċenzja, disponibbli bħala Kodiċi
+    tas-Sors u wkoll bħala Kodiċi Eżegwibbli, skont il-każ li jkun.
+
+-   Xogħlijiet Derivanti: ix-xogħlijiet jew softwer li jistgħu jinħolqu mid-Detentur
+    talLiċenzja, ibbażati fuq ix-Xogħol Oriġinali jew modifiki tiegħu. Din il-Liċenzja ma
+    tiddefinix sa fejn biċċa xogħol għandha tkun modifikata jew dipendenti fuq ix-Xogħol
+    Oriġinali sabiex tiġi kklassifikata bħala Xogħol Derivanti; dan jiġi determinat bil-liġi
+    dwar id-drittijiet tal-awtur applikabbli fil-pajjiż imsemmi fl-Artikolu 15.
+
+-   Ix-Xogħol: ix-Xogħol Oriġinali u/jew ix-Xogħlijiet Derivanti tiegħu.
+
+-   Il-Kodiċi tas-Sors: l-għamla tax-Xogħol li tista' tinqara' mill-bniedem li hija l-aktar
+    waħda konvenjenti għan-nies biex jistudjawha u jimmodifikawha.
+
+-   Il-Kodiċi Eżegwibbli: kwalunkwe kodiċi li ġie miġbur b'mod ġenerali u li huwa
+    intenzjonat li jiġi interpretat minn kompjuter bħala programm.
+
+-   Il-Konċedent tal-Liċenzja: il-persuna naturali jew legali li tiddistribwixxi u/jew
+    tikkomunika x-Xogħol permezz tal-Liċenzja.
+
+-   Il-kontributur(i): kwalunkwe persuna naturali jew legali li timmodifika x-Xogħol
+    permezz tal-Liċenzja, jew inkella tikkontribwixxi għall-ħolqien ta' Xogħol Derivanti.
+
+-   Id-Detentur tal-Liċenzja jew “Inti”: kwalunkwe persuna naturali jew legali li tuża
+    sSoftwer skont ir-rekwiżiti tal-Liċenzja.
+
+-   Distribuzzjoni u/jew Komunikazzjoni: kwalunkwe azzjoni ta' bejgħ, għoti, self, kiri,
+    distribuzzjoni, komunikazzjoni, trażmissjoni, jew inkella b’modi oħra t-tqegħid
+    għaddispożizzjoni ta' kwalunkwe persuna oħra naturali jew legali ta’ kopji tax-Xogħol,
+    onlajn jew offlajn, jew l-għoti ta’ aċċess għall-funzjonalitajiet essenzjali tax-Xogħol
+    lil kwalunkwe persuna oħra naturali jew legali.
+
+
+2. L-ambitu tad-drittijiet mogħtija bil-Liċenzja
+
+Il-Konċedent tal-Liċenzja b'dan Lilek tagħtik liċenzja li tista' tintuża madwar id-dinja
+kollha, ħielsa mid-dritt tal-awtur, mhux esklussiva, liċenzja subliċenzjabbli biex tagħmel
+dan li ġej, għat-tul ta' żmien stipulat tad-drittijiet tal-awtur mogħtija lixXogħol Oriġinali:
+
+-   tuża x-Xogħol fi kwalunkwe ċirkustanza u għal kull użu,
+
+-   tirriproduċi x-Xogħol,
+
+-   timmodifika x-Xogħol Oriġinali, u tagħmel Xogħlijiet Derivanti bbażati fuqu,
+
+-   tikkomunika lill-pubbliku, inkluż id-dritt li tagħmel disponibbli jew turi
+    lillpubbliku x-Xogħol jew kopji tiegħu u li tħaddem ix-Xogħol pubblikament,
+    skont ma jkun il-każ,
+
+-   tiddistribwixxi x-Xogħol jew kopji tiegħu,
+
+-   issellef u tikri x-Xogħol jew kopji tiegħu,
+
+-   tissubliċenzja d-drittijiet tal-awtur fix-Xogħol jew kopji tiegħu.
+
+Dawk id-drittijiet jistgħu jiġu eżerċitati fi kwalunkwe midja, supporti u formati,
+kemm dawk magħrufin bħalissa kif ukoll dawk li jiġu skoperti akar tard, sakemm
+tippermetti l-liġi applikabbli.
+
+Fil-pajjiżi fejn japplikaw id-drittijiet morali, il-Konċedent tal-Liċenzja jirrinunzja
+ddritt tagħha li teżerċita d-dritt morali sal-limitu li tippermetti l-liġi sabiex
+il-liċenzja tad-drittijiet ekonomiċi elenkati hawn fuq tkun effettiva.
+
+Il-Konċedent tal-Liċenzja jagħti lid-Detentur tal-Liċenzja drittijiet ta' użu, ħielsa
+middrittijiet tal-awtur u mhux esklussivi għal kwalunkwe brevett miżmum millKonċedent
+tal-Liċenzja, sa fejn huwa meħtieġ sabiex jintużaw id-drittijiet mogħtija
+fuq ix-Xogħol permezz ta' din il-Liċenzja.
+
+
+3. Il-Komunikazzjoni tal-Kodiċi tas-Sors
+
+Il-Konċedent tal-Liċenzja jista' tipprovdi x-Xogħol jew fl-għamla tal-Kodiċi tas-Sors,
+jew bħala Kodiċi Eżegwibbli. Jekk ix-Xogħol jiġi pprovdut bħala Kodiċi Eżegwibbli,
+l-Konċedent tal-Liċenzja jipprovdi wkoll kopja li tista' tinqara minn magna tal-Kodiċi
+tas-Sors tax-Xogħol flimkien ma' kull kopja tax-Xogħol li l-Konċedent tal-Liċenzja
+jiddistribwixxi jew jindika, f'avviż li jinħareġ wara l-avviż tad-drittijiet tal-awtur
+mehmuż max-Xogħol, repożitorju fejn il-Kodiċi tas-Sors ikun aċċessibbli faċilment u
+bil-libertà sakemm il-Konċedent tal-Liċenzja jkompli jiddistribwixxi u/jew
+jikkomunika x-Xogħol.
+
+
+4. Limitazzjonijiet fuq id-drittijiet tal-awtur
+
+Ma hemm xejn f'din il-Liċenzja li huwa intenzjonat li jċaħħad lid-Detentur talLiċenzja
+mill-benefiċċji ta' kwalunkwe eċċezzjoni jew limitazzjoni għad-drittijiet esklussivi
+tal-detenturi tad-drittijiet fix-Xogħol Oriġinali jew Softwer, jew milleżawriment ta'
+dawk id-drittijiet jew ta' limitazzjonijiet oħrajn applikabbli għalihom.
+
+
+5. Obbligi tad-Detentur tal-Liċenzja
+
+L-għoti tad-drittijiet imsemmija hawn fuq huwa soġġett għal xi restrizzjonijiet u
+obbligi imposti fuq id-Detentur tal-Liċenzja. Dawk l-obbligi huma kif ġej:
+
+Dritt ta’ attribuzzjoni: Id-Detentur tal-Liċenzja għandu jżomm sħaħ l-avviżi kollha
+tad-drittijiet tal-awtur, brevetti jew trademarks u l-avviżi kollha li jirreferu
+għalLiċenzja u għar-rinunzja ta' garanziji. Id-Detentur tal-Liċenzja għandu jinkludi kopja
+ta' tali avviżi u kopja tal-Liċenzja ma' kull kopja tax-Xogħol li jiddistribwixxi u/jew
+jikkomunika. Id-Detentur tal-Liċenzja għandu jara li kull Xogħol Derivanti jkollu
+avviżi prominenti li jistqarru li x-Xogħol ġie mmodifikat u d-data tal-modifika.
+
+Klawżola ta' copyleft: Jekk id-Detentur tal-Liċenzja jiddistribwixxi u/jew
+jikkomunika kopji tax-Xogħlijiet Oriġinali jew Xogħlijiet Derivanti bbażati fuq
+ixXogħol Oriġinali, din id-Distribuzzjoni u/jew Komunikazzjoni għandha ssir skont
+ittermini ta’ din il-Liċenzja jew ta’ verżjoni sussegwenti ta’ din il-Liċenzja,
+sakemm ixXogħol Oriġinali jkun distribwit espressament biss skont din il-verżjoni
+tal-Liċenzja. Id-Detentur tal-Liċenzja (li mbagħad isir il-Konċedent tal-Liċenzja)
+ma jista' joffri jew jimponi l-ebda terminu jew kundizzjoni addizzjonali dwar
+ix-Xogħol jew Xogħol Derivanti li jbiddlu jew jillimitaw it-termini tal-Liċenzja.
+
+Klawżola ta' kompatibbiltà: Jekk id-Detentur tal-Liċenzja Jiddistribwixxi u/jew
+Jikkomunika Xogħlijiet Derivanti jew kopji tagħhom ibbażati kemm fuq ix-Xogħol
+Oriġinali kif ukoll fuq xogħol ieħor mogħti liċenzja permezz ta' Liċenzja
+Kompatibbli, din id-Distribuzzjoni u/jew Komunikazzjoni tista' issir skont it-termini
+ta' din il-Liċenzja Kompatibbli. Għall-finijiet ta' din il-Klawżola, “Liċenzja
+Kompatibbli” tirreferi għal-liċenzji elenkati fl-appendiċi mehmuża ma' din ilLiċenzja.
+Jekk l-obbligi tad-Detentur tal-Liċenzja skont il-Liċenzja Kompatibbli
+jmorru kontra l-obbligi tiegħu skont din il-Liċenzja, l-obbligi tal-Liċenzja
+Kompatibbli għandhom jipprevalu.
+
+Il-forniment tal-Kodiċi tas-Sors: Waqt id-distribuzzjoni u/jew komunikazzjoni ta'
+kopji tax-Xogħol, id-Detentur tal-Liċenzja għandu jipprovdi kopja tal-Kodiċi tas-Sors
+li tinqara bil-magna jew inkella jindika repożitorju fejn dan is-Sors ikun disponibbli
+faċilment u mingħajr restrizzjonijiet sakemm id-Detentur tal-Liċenzja jkompli
+jiddistribwixxi u/jew jikkomunika x-Xogħol.
+
+Protezzjoni Legali: Din il-Liċenzja ma tagħtix permess għall-użu ta' ismijiet
+kummerċjali, trademarks, marki tas-servizz, jew ismijiet tal-Konċedent tal-Liċenzja,
+minbarra kif meħtieġ għal użu raġonevoli u normali biex tiddeskrivi l-oriġini taxXogħol
+u biex tirriproduċi l-kontenut tal-avviż tad-drittijiet tal-awtur.
+
+
+6. Katina ta' Oriġini Magħrufa
+
+Il-Konċedent oriġinali tal-Liċenzja jiggarantixxi li d-dritt tal-awtur fuq ix-Xogħol
+Oriġinali mogħtija hawn taħt, huwa l-proprjetà tieghu jew liċenzjati lilu u li għandha
+l-poter u l-awtorita' li jikkonċedi il-licenzja.
+
+Kull Kontributur jiggarantixxi li d-dritt tal-awtur fuq il-modifiki li jagħmel fixXogħol
+huwa l-proprjetà tieg ħu jew li huma mogħtija lilu permezz ta’ liċenzja u li għandu l-poter
+u l-awtorità li jikkonċedi l-Liċenzja.
+
+Kull darba li Inti taċċetta l-Liċenzja, il-Konċedent oriġinali tal-Liċenzja u lKontributuri
+sussegwenti jikkonċedu liċenzja Lilek għall-kontributi tagħhom għaxXogħol, skont it-termini
+ta' din il-Liċenzja.
+
+
+7. Rinunzja ta' Garanzija
+
+Ix-Xogħol huwa xogħol li għadu għaddej, li jittejjeb kontinwament permezz ta'
+kontributuri numerużi. Mhuwiex xogħol lest u għalhekk jista' jkollu difetti jew “bugs”
+inerenti f'dan it-tip ta' żvilupp ta' softwer.
+
+Għal din ir-raġuni, ix-Xogħol jiġi pprovdut permezz tal-Liċenzja fuq bażi “tale quale”
+u mingħajr garanziji ta' kwalunkwe tip dwar ix-Xogħol, inkluż mingħajr
+limitazzjonijiet, kummerċjabilità, adegwatezza għal xi skop partikolari, assenza ta'
+difetti jew żbalji, akkuratezza, nuqqas ta' vjolazzjoni ta' drittijiet ta' proprjetà
+intelletwali minbarra d-drittijiet tal-awtur kif stabbiliti bl-Artikolu 6 ta' din ilLiċenzja.
+
+Ir-rinunzja tal-garanzija hija parti essenzjali tal-Liċenzja u kundizzjoni għall-għoti ta'
+kwalunkwe dritt għax-Xogħol.
+
+
+8. Rinunzja ta' Responsabbiltà
+
+Għajr fil-każijiet ta' kondotta ħażina volontarja jew ta' ħsarat ikkaġunati direttament lil
+persuni naturali, il-Konċedent tal-Liċenzja fl-ebda każ ma jista' jinżamm responsabbli
+għal kwalunkwe ħsara diretta jew indiretta, materjali jew morali, ta' kwalunkwe xorta,
+li tirriżulta mil-Liċenzja jew mill-użu tax-Xogħol, fosthom mingħajr limitazzjoni,
+ħsarat għat-telf ta' avvjament, waqfien mix-xogħol, waqfien jew malfunzjonament talkompjuter,
+telf ta' dejta jew ħsara kummerċjali, ukoll jekk il-Konċedent tal-Liċenzja
+ġie avżat dwar il-possibbiltà ta' tali ħsara. Madankollu, il-Konċedent tal-Liċenzja jkun
+responsabbli skont il-liġijiet statutorji dwar ir-responsabbiltà tal-prodott, sakemm
+dawn il-liġijiet japplikaw għax-Xogħol.
+
+
+9. Ftehimiet Addizzjonali
+
+Waqt li tiddistribwixxi x-Xogħol Oriġinali jew ix-Xogħlijiet Derivanti, Inti tista'
+tagħżel li tikkonkludi ftehim addizzjonali biex toffri, u titlob ħlas għal, aċċettazzjoni
+ta' sostenn, garanzija, indennità, jew xi obbligi ta' responsabbiltà u/jew servizzi
+konsistenti ma' din il-Liċenzja. Madankollu, meta taċċetta tali obbligi, Inti tista'
+taġixxi biss f'ismek stess u bir-responsabbiltà tiegħek biss, mhux f'isem il-Konċedent
+oriġinali tal-Liċenzja jew kwalunkwe Kontributur ieħor, u dan biss jekk Inti taqbel li
+tikkumpensa, tiddefendi, u żżomm ħieles kull Kontributur għal kwalunkwe
+obbligazzjoni attwali, jew talba kontra tali Kontributur bil-fatt li Inti aċċettajt
+kwalunkwe tali granzija jew responsabbiltà addizzjonali.
+
+
+10. Aċċettazzjoni tal-Liċenzja
+
+Tista' taċċetta d-dispożizzjonijiet ta' din il-Liċenzja billi tikklikkja l-buttuna “Naqbel”
+taħt qiegħ it-tieqa li turi t-test ta' din il-Liċenzja, jew billi taqbel b'xi mod simili ieħor,
+skont ir-regoli tal-liġi applikabbli. Billi tikklikkja l-buttuna, Inti tkun qed tindika
+laċċettazzjoni ċara u irrevokabbli tiegħek għal din il-Liċenzja bit-termini u lkundizzjonijiet
+kollha tagħha.
+
+Bl-istess mod, Inti taċċetta din il-Liċenzja u t-termini u l-kundizzjonijiet kollha tagħha
+b'mod irrevokabbli billi teżerċita kwalunkwe dritt mogħti Lilek bl-Artikolu 2 ta' din
+il-Liċenzja, bħall-użu tax-Xogħol, il-ħolqien minnek ta' Xogħol Derivanti jew idDistribuzzjoni
+u/jew Komunikazzjoni Tiegħek tax-Xogħol jew kopji tiegħu.
+
+
+11. Informazzjoni għall-pubbliku
+
+Fil-każ ta' kwalunkwe Distribuzzjoni u/jew Komunikazzjoni tax-Xogħol permezz ta'
+komunikazzjoni elettronika Minnek (pereżempju, billi toffri li tniżżel ix-Xogħol minn
+post remot) il-mezzi ta' distribuzzjoni jew il-midja (pereżempju, websajt) għandhom
+tal-anqas jipprovdu għall-pubbliku t-tagħrif meħtieġ bil-liġi applikabbli dwar ilKonċedent
+tal-Liċenzja, il-Liċenzja u l-mod kif jista' jkun aċċessibbli, konkluż,
+maħżun u riprodott mid-Detentur tal-Liċenzja.
+
+
+12. Terminazzjoni tal-Liċenzja
+
+Il-Liċenzja u d-drittijiet mogħtija hawn jispiċċaw awtomatikament mal-ksur talkundizzjonijiet
+tal-Liċenzja mid-Detentur tal-Liċenzja.
+
+Terminazzjoni bħal din ma ttemmx il-liċenzji ta' kwalunkwe persuna li tkun irċeviet ix-Xogħol
+mid-Detentur tal-Liċenzja skont il-Liċenzja, sakemm tali persuni jibqgħu f'konformità sħiħa
+mal-Liċenzja.
+
+
+13. Mixxellanji
+
+Mingħajr preġudizzju għall-Artikolu 9 hawn fuq, il-Liċenzja tirrappreżenta l-qbil sħiħ
+bejn il-Partijiet rigward ix-Xogħol mogħti liċenzja hawnhekk.
+
+Jekk kwalunkwe dispożizzjoni tal-Liċenzja ma tkunx valida jew infurzabbli bil-liġi
+applikabbli, dan ma jaffettwax il-validità jew l-infurzar tal-Liċenzja kollha kemm hi.
+
+Dispożizzjoni bħal din għandha tiġi interpretata u/jew mibdula kif meħtieġ sabiex tiġi
+valida u infurzabbli.
+
+Il-Kumissjoni Ewropea tista’ tippubblika verżjonijiet b’lingwi oħra u/jew
+verżjonijietġodda ta’ din il-Liċenzja, sakemm dan ikun meħtieġ u raġonevoli,
+mingħajr ma tnaqqas l-ambitu tad-drittijiet mogħtija bil-Liċenzja. Verżjonijiet ġodda
+tal-Liċenzja jiġu ppublikati b'numru uniku tal-verżjoni.
+
+Il-verżjonijiet kollha ta’ din il-Liċenzja bil-lingwi differenti, approvati millKummissjoni
+Ewropea, għandhom valur identiku. Il-Partijiet jistgħu jutilizzaw ilverżjoni bil-lingwa
+tal-għażla tagħhom.
+
+
+14. Ġuriżdizzjoni
+
+Kwalunkwe tilwim li jirriżulta mill-interpretazzjoni ta' din il-Liċenzja li jista’ jqum
+bejn il-Kummissjoni Ewropea, bħala l-Konċedent tal-Liċenzja, u kwalunkwe Detentur
+tal-Liċenzja, ikun soġġett għall-ġuriżdizzjoni tal-Qorti tal-Ġustizzja tal-Komunitajiet
+Ewropej, kif stabbilit bl-Artikolu 238 tat-Trattat li jistabbilixxi l-Komunità Ewropea.
+
+Kwalunkwe tilwim li jista’ jqum bejn Partijiet, għajr il-Kummissjoni Ewropea, u li
+jirriżulta mill-interpretazzjoni ta' din il-Liċenzja, ikun soġġett għall-ġuriżdizzjoni
+esklussiva tal-qorti kompetenti fil-post ta' residenza tal-Konċedent tal-Liċenzja jew
+fejn huwa stabbilit ix-xogħol primarju tagħha.
+
+
+15. Liġi applikabbli
+
+Din il-Liċenzja għandha tkun irregolata mil-liġi tal-pajjiż tal-Unjoni Ewropea fejn lKonċedent oriġinali tal-Liċenzja huwa residenti jew għandu l-uffiċċju rreġistrat
+tieghu.
+Din il-Liċenzja tiġi rregolata bil-liġi Belġjana jekk;
+
+-   jirriżulta tilwim bejn il-Kummissjoni Ewropea, bħala l-Konċedent
+    tal-Liċenzja, u kwalunkwe Detentur tal-Liċenzja;
+
+-   l-Konċedent tal-Liċenzja, għajr il-Kummissjoni Ewropea, ma għandhiex
+    post ta' residenza jew uffiċċju rreġistrat f'pajjiż tal-Unjoni Ewropea.
+
+
+===
+
+
+Appendiċi
+
+“Liċenzji Kompatibbli” skont l-Artikolu 5 tal-EUPL huma:
+
+- GNU General Public License (GNU GPL) v. 2
+- Open Software License (OSL) v. 2.1, v. 3.0
+- Common Public License v. 1.0
+- Eclipse Public License v. 1.0
+- Cecill v. 2.0
+
