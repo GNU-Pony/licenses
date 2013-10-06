@@ -47,7 +47,7 @@ install:
 
 
 uninstall:
-	-rm -f "$(DESTDIR)$(DIR)"/CeCILL{1,2,-B,C}/{english,french}
+	-rm -f "$(DESTDIR)$(DIR)"/CeCILL{1,2,-B,-C}/{english,french}
 	-rm -f "$(DESTDIR)$(DIR)"/EUPL{1.0,1.1}/$(EUPL)
 	-rm -f "$(DESTDIR)$(DIR)"/FAL1.2/{french,spanish}
 	-rm -f "$(DESTDIR)$(DIR)"/FAL1.3/{english,french}
