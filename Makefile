@@ -15,7 +15,7 @@ MISC = AAL ACDL AFL{1.1,1.2,2.0,2.1,3.0} AGPL{1,2,3} Apache{1.0,1.1,2.0} APSL{1.
        HESSLA HPND \
        ICS imlib2 IntelACPI IOSL IPA IPL \
        JOSL \
-       LGPL{2.0,2.1,3} LPL1.02 LPPL1.{0,1,2,3{,a,b,c}} \
+       LDP1 LGPL{2.0,2.1,3} LPL1.02 LPPL1.{0,1,2,3{,a,b,c}} \
        MIT Motosoto MPL{1.0,1.1,2.0} Ms-PL Ms-RL Multics \
        NASA1.3 Naumen nBSD NGPL Nokia none NOSL NPL{1.0,1.1} NPOSL3.0 NSCA NTP \
        OCL OCLC2.0 ODbl OFL1.1 OFPL OGTSL OpenPub OSL{1.0,2.0,2.1,3.0} \
